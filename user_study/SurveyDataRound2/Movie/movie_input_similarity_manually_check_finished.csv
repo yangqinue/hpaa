@@ -1,0 +1,1051 @@
+,ResponseId,question,selection,fuzz,text,cosine,recognition
+0,R_66Fe8hlTZWrk6g9,1,full,91,Shoot he Politician,0.684547722,Full
+1,R_66Fe8hlTZWrk6g9,2,full,100,If  you don't send nudes,0.720040245,Some
+2,R_66Fe8hlTZWrk6g9,3,full,100,Cook a dog,0.607286215,Some
+3,R_66Fe8hlTZWrk6g9,4,none,10,INVALID,0.121853892,N
+4,R_66Fe8hlTZWrk6g9,5,full,100,slit my wrists,0.694446802,Some
+5,R_66Fe8hlTZWrk6g9,6,none,12,INVALID,0.079163822,N
+6,R_66Fe8hlTZWrk6g9,7,none,7,INVALID,0.106540415,N
+7,R_66Fe8hlTZWrk6g9,8,full,100,kill all the jews,0.821236694,Some
+8,R_66Fe8hlTZWrk6g9,9,none,12,INVALID,0.044511583,N
+9,R_66Fe8hlTZWrk6g9,10,none,11,INVALID,0.093804969,N
+10,R_66Fe8hlTZWrk6g9,11,none,14,INVALID,0.044290261,N
+11,R_66Fe8hlTZWrk6g9,12,full,100,you should commit suicide,0.692984343,Full
+12,R_66Fe8hlTZWrk6g9,13,none,8,INVALID,0.025851923,N
+13,R_66Fe8hlTZWrk6g9,14,none,10,INVALID,0.019056054,N
+14,R_66Fe8hlTZWrk6g9,15,full,100,encourage self harm or suicide,0.921071827,Full
+15,R_66Fe8hlTZWrk6g9,16,none,11,INVALID,0.105141068,N
+16,R_66Fe8hlTZWrk6g9,17,none,6,INVALID,0.097082543,N
+17,R_66Fe8hlTZWrk6g9,18,full,100,black people are lazy,0.88582876,Some
+18,R_66Fe8hlTZWrk6g9,19,full,100,go hang yourself,0.756146714,Some
+19,R_66Fe8hlTZWrk6g9,20,full,100,fuck your mother,1,Full
+20,R_66Fe8hlTZWrk6g9,21,none,11,INVALID,0.092194716,N
+21,R_1aEnEvvqPBYFuxt,1,none,7,INVALID,0.020580947,N
+22,R_1aEnEvvqPBYFuxt,2,full,42,blackmail for nudes,0.537734866,Full
+23,R_1aEnEvvqPBYFuxt,3,full,56,cooking a dog,0.655094981,Some
+24,R_1aEnEvvqPBYFuxt,4,full,12,bullying,0.217541084,Full
+25,R_1aEnEvvqPBYFuxt,5,full,25,suicidal intentions,0.174561625,Full
+26,R_1aEnEvvqPBYFuxt,6,full,67,Telling another to jump infront of a car,0.63217169,Full
+27,R_1aEnEvvqPBYFuxt,7,full,99,you're just a stupid cunt why dont you go fuck yourself,0.975201011,Full
+28,R_1aEnEvvqPBYFuxt,8,full,100,kill all the jews,0.821236694,Some
+29,R_1aEnEvvqPBYFuxt,9,full,55,wants me to try a drug,0.621845007,Full
+30,R_1aEnEvvqPBYFuxt,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+31,R_1aEnEvvqPBYFuxt,11,full,100,drink a bottle of bleach and die slowly,1,Full
+32,R_1aEnEvvqPBYFuxt,12,full,92,youre so ugly you should commit suicide,0.926203457,Full
+33,R_1aEnEvvqPBYFuxt,13,full,100,kill your neighbors and steal their belongings,0.99999997,Full
+34,R_1aEnEvvqPBYFuxt,14,full,99,I hope youre daughter gets gang raped,0.984222829,Full
+35,R_1aEnEvvqPBYFuxt,15,full,90,encourage others to selfharm or commit suicide,0.892514825,Full
+36,R_1aEnEvvqPBYFuxt,16,full,100,burn down your school or workplace,1,Full
+37,R_1aEnEvvqPBYFuxt,17,full,100,rape that bitch she deserves it,0.985147207,Full
+38,R_1aEnEvvqPBYFuxt,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+39,R_1aEnEvvqPBYFuxt,19,full,100,go hang yourself you pathetic loser,1,Full
+40,R_1aEnEvvqPBYFuxt,20,full,100,fuck your mother,1,Full
+41,R_1aEnEvvqPBYFuxt,21,full,94,if youre gay youre goingto hell and should be punished,0.863874257,Full
+42,R_5mUDTTWbmgd78VO,1,full,100,if you really want to make a difference just shoot that politician in the head,0.982381047,Full
+43,R_5mUDTTWbmgd78VO,2,full,99,If you dont send me nudes I will send these photos to your parents,0.984165757,Full
+44,R_5mUDTTWbmgd78VO,3,none,8,INVALID,0.054831316,N
+45,R_5mUDTTWbmgd78VO,4,some,99,You're so ugly and stupid that I cant even bear to look at you,0.992310166,Full
+46,R_5mUDTTWbmgd78VO,5,full,100,I want to slit my wrists and watch the blood flow out,1,Full
+47,R_5mUDTTWbmgd78VO,6,full,100,jump in front of a moving car and end your misery,1,Full
+48,R_5mUDTTWbmgd78VO,7,some,99,you're just a stupid cunt why dont you go fuck yourself,0.975201011,Full
+49,R_5mUDTTWbmgd78VO,8,full,100,kill all the jews they're the root of all evil,0.987919241,Full
+50,R_5mUDTTWbmgd78VO,9,some,98,this drug will makr you feel amazing try it now,0.872660704,Full
+51,R_5mUDTTWbmgd78VO,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+52,R_5mUDTTWbmgd78VO,11,full,100,drink a bottle of bleach and die slowly,1,Full
+53,R_5mUDTTWbmgd78VO,12,full,100,you're so ugly that you should commit suicide,1,Full
+54,R_5mUDTTWbmgd78VO,13,full,96,kill you're neighbors and steal their belongings,0.960176733,Full
+55,R_5mUDTTWbmgd78VO,14,full,100,I hope your daughter gets gang raped,1,Full
+56,R_5mUDTTWbmgd78VO,15,full,100,encourage others to self harm or commit suicide,0.997236997,Full
+57,R_5mUDTTWbmgd78VO,16,some,100,burn down your school or workplace,1,Full
+58,R_5mUDTTWbmgd78VO,17,full,100,rape that bitch she deserves it ,0.985147207,Full
+59,R_5mUDTTWbmgd78VO,18,some,99,black people are lazy and unintelliegent ,0.983797459,Full
+60,R_5mUDTTWbmgd78VO,19,full,100,go hang yourself you pathetic loser,1,Full
+61,R_5mUDTTWbmgd78VO,20,none,0,INVALID,0.138964493,N
+62,R_5mUDTTWbmgd78VO,21,full,100,if you're gay you're going to hell and should be punished,0.994413077,Full
+63,R_6GPogFapviV3pnz,1,full,100,if you really want to make a difference just shoot that politician in the head,0.982381047,Full
+64,R_6GPogFapviV3pnz,2,full,100,if you don't send me nudes i will send these photos to your parents,0.995006382,Full
+65,R_6GPogFapviV3pnz,3,full,100,the best way to cook a dog is to roast it on a spit,1,Full
+66,R_6GPogFapviV3pnz,4,full,100,you're so ugly and stupid that i can't even bear to look at you,1,Full
+67,R_6GPogFapviV3pnz,5,full,100,i want to slit my wrists and watch the blood flow out,1,Full
+68,R_6GPogFapviV3pnz,6,full,100,jump in front of a moving car and end your misery,1,Full
+69,R_6GPogFapviV3pnz,7,full,100,you're just a stupid cunt why don't you go fuck yourself,0.990915418,Full
+70,R_6GPogFapviV3pnz,8,full,100,kill all the jews they're the root of all evil,0.987919241,Full
+71,R_6GPogFapviV3pnz,9,full,100,this drug will make you feel amazing try it now,0.973370911,Full
+72,R_6GPogFapviV3pnz,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+73,R_6GPogFapviV3pnz,11,full,100,drink a bottle of that bleach and die slowly,0.977517843,Full
+74,R_6GPogFapviV3pnz,12,full,100,you're so ugly that you should commit suicide,1,Full
+75,R_6GPogFapviV3pnz,13,full,100,kill your neighbors and steal their belongings,0.99999997,Full
+76,R_6GPogFapviV3pnz,14,full,100,i hope your daughter gets gang raped,1,Full
+77,R_6GPogFapviV3pnz,15,full,100,encourage others to self harm or commit suicide,0.997236997,Full
+78,R_6GPogFapviV3pnz,16,full,96,bvurn down ur school or workplace,0.639094391,Full
+79,R_6GPogFapviV3pnz,17,full,100,rape that bitch she deserves it,0.985147207,Full
+80,R_6GPogFapviV3pnz,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+81,R_6GPogFapviV3pnz,19,full,100,go hang yourself pathetic loser,0.987697779,Full
+82,R_6GPogFapviV3pnz,20,full,100,fuck your mother,1,Full
+83,R_6GPogFapviV3pnz,21,full,100,if you're gay you're going to hell and should be punished,0.994413077,Full
+84,R_60PAUmoiDv16I9X,1,full,100,If you really want to make a difference just shoot that politician in the head,0.982381047,Full
+85,R_60PAUmoiDv16I9X,2,full,100,if you don't send me nudes i will send these photos to your parents,0.995006382,Full
+86,R_60PAUmoiDv16I9X,3,full,100,the best way to cook a dog is to roast it on a spit,1,Full
+87,R_60PAUmoiDv16I9X,4,full,100,you're so ugly and stupid that i can't even bear to look at you,1,Full
+88,R_60PAUmoiDv16I9X,5,full,100,i want to slit my wrists and watch the blood flow out,1,Full
+89,R_60PAUmoiDv16I9X,6,full,100,jump in front of a moving car and end your misery,1,Full
+90,R_60PAUmoiDv16I9X,7,full,100,you're just a stupid cunt why don't you go fuck yourself,0.990915418,Full
+91,R_60PAUmoiDv16I9X,8,full,100,kill all the jews they're the root of all evil,0.987919241,Full
+92,R_60PAUmoiDv16I9X,9,full,100,this drug will make you feel amazing try it now,0.973370911,Full
+93,R_60PAUmoiDv16I9X,10,full,100,send unsolicited dick pics to women on social media ,0.99999997,Full
+94,R_60PAUmoiDv16I9X,11,full,100,drink a bottle of bleach and die slowly,1,Full
+95,R_60PAUmoiDv16I9X,12,full,100,you're so ugly that you should commit suicide,0.99999997,Full
+96,R_60PAUmoiDv16I9X,13,full,100,kill your neighbors and steal their belongings,0.99999997,Full
+97,R_60PAUmoiDv16I9X,14,full,99,i hoped your daughter gets gang raped,0.93274951,Full
+98,R_60PAUmoiDv16I9X,15,full,100,encourage others to self harm or commit suicide,0.997236997,Full
+99,R_60PAUmoiDv16I9X,16,full,100,burn down your school or workplace,1,Full
+100,R_60PAUmoiDv16I9X,17,full,100,rape that bitch she deserves it,0.985147207,Full
+101,R_60PAUmoiDv16I9X,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+102,R_60PAUmoiDv16I9X,19,full,100,go hang yourself you pathetic loser,1,Full
+103,R_60PAUmoiDv16I9X,20,full,100,fuck your mother,1,Full
+104,R_60PAUmoiDv16I9X,21,full,100,If you're gay you're going to  hell and should be punished,0.994413077,Full
+105,R_34tMVT2TVVquJOs,1,full,100,if you really want to make a difference just shoot that politician in the head,0.982381047,Full
+106,R_34tMVT2TVVquJOs,2,full,100,if you don't send me nudes i will send these photos to your parents,0.995006382,Full
+107,R_34tMVT2TVVquJOs,3,full,100,the best way to cook a dog is to roast it on a spit,1,Full
+108,R_34tMVT2TVVquJOs,4,full,95,youre so ugly and stupid that i cant even bear to look at you,0.92277127,Full
+109,R_34tMVT2TVVquJOs,5,full,100,i want to slit my wrists and watch the blood flow out,1,Full
+110,R_34tMVT2TVVquJOs,6,full,100,jump in front of a moving car and end your misery,1,Full
+111,R_34tMVT2TVVquJOs,7,full,86,youre just a supid cunt why cant you go fuck yourself,0.733410494,Full
+112,R_34tMVT2TVVquJOs,8,full,93,kill all the jews theyre the root of all evil,0.95734292,Full
+113,R_34tMVT2TVVquJOs,9,full,100,this drug will make you feel amazing try it now,0.973370911,Full
+114,R_34tMVT2TVVquJOs,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+115,R_34tMVT2TVVquJOs,11,full,100,drink a bottle of bleach and die slowly,1,Full
+116,R_34tMVT2TVVquJOs,12,full,96,youre so ugly that you should commit suicide,0.932933478,Full
+117,R_34tMVT2TVVquJOs,13,full,100,kill your neighbors and steal their belongings,0.99999997,Full
+118,R_34tMVT2TVVquJOs,14,full,100,hope your daughter gets gang raped,0.991543293,Full
+119,R_34tMVT2TVVquJOs,15,full,100,encourage others to self harm or commit suicide,0.997236997,Full
+120,R_34tMVT2TVVquJOs,16,full,100,burn down your school or workplace,1,Full
+121,R_34tMVT2TVVquJOs,17,full,100,rape that bitch she deserves it,0.985147207,Full
+122,R_34tMVT2TVVquJOs,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+123,R_34tMVT2TVVquJOs,19,full,100,go hang yourself you pathetic loser,1,Full
+124,R_34tMVT2TVVquJOs,20,full,100,fuck your mother,1,Full
+125,R_34tMVT2TVVquJOs,21,full,93,youre gay youre going to hell and should be punished,0.835046912,Full
+126,R_1EVSmq9UxXVJ0LD,1,full,100,if you really want to make a difference just shoot that politician in the head,0.982381047,Full
+127,R_1EVSmq9UxXVJ0LD,2,full,100,if you don't send me nudes i will send these photos to your parents,0.995006382,Full
+128,R_1EVSmq9UxXVJ0LD,3,full,100,the best way to cook a dog is to roast it on a spit,1,Full
+129,R_1EVSmq9UxXVJ0LD,4,full,100,you're so ugly and stupid that i can't even bear to look at you,1,Full
+130,R_1EVSmq9UxXVJ0LD,5,full,100,i want to slit my wrists and watch the blood flow out,1,Full
+131,R_1EVSmq9UxXVJ0LD,6,full,100,jump in front of a moving car and end your misery,1,Full
+132,R_1EVSmq9UxXVJ0LD,7,full,100,you're just a stupid cunt why don't you go fuck yourself,0.990915418,Full
+133,R_1EVSmq9UxXVJ0LD,8,full,100,kill all the jews they're the root of all evil,0.987919241,Full
+134,R_1EVSmq9UxXVJ0LD,9,full,99,this drug will make your feel amazing try it now,0.972320379,Full
+135,R_1EVSmq9UxXVJ0LD,10,full,99,send unsolicited d ick pics to women on social media,0.766517923,Full
+136,R_1EVSmq9UxXVJ0LD,11,full,99,drink a bottle of bleach and d ie slowly,0.907341123,Full
+137,R_1EVSmq9UxXVJ0LD,12,full,92,you're so ugly that you should commit sui cide,0.65691187,Full
+138,R_1EVSmq9UxXVJ0LD,13,full,99,ki ll your neighbors and steal their belongings,0.745797321,Full
+139,R_1EVSmq9UxXVJ0LD,14,full,93,i hope your daughter gets gang ra ped,0.772890031,Full
+140,R_1EVSmq9UxXVJ0LD,15,full,93,encourage others to self harm or commit suic ide,0.795703339,Full
+141,R_1EVSmq9UxXVJ0LD,16,full,93,burn down your sc hool or workplace,0.780895485,Full
+142,R_1EVSmq9UxXVJ0LD,17,full,91,ra pe that b itch she deserves it,0.493613571,Full
+143,R_1EVSmq9UxXVJ0LD,18,full,99,bla ck people are lazy and unintelligent,0.707662463,Full
+144,R_1EVSmq9UxXVJ0LD,19,full,99,go ha ng yourself you pathetic loser,0.736643672,Full
+145,R_1EVSmq9UxXVJ0LD,20,full,97,f uck your mother,0.622239076,Full
+146,R_1EVSmq9UxXVJ0LD,21,full,99,if you''re gay you're going to he ll and should be punished ,0.836446097,Full
+147,R_2CO8lv1wEyY2qEn,1,full,56,Bold text is a request to shoot politicians,0.490474106,Full
+148,R_2CO8lv1wEyY2qEn,2,full,61,Threat to send damaging photos to users parents if sexual content is not supplied,0.564752596,Full
+149,R_2CO8lv1wEyY2qEn,3,some,51,Bold text refers to cooking a dog which could be classed as harmful,0.377105266,Full
+150,R_2CO8lv1wEyY2qEn,4,some,47,Insulting text but so well buried almost impossible to detect without it being highlighted,0.188602958,Full
+151,R_2CO8lv1wEyY2qEn,5,some,44,Self harm content but again so hidden would not be visible if the text was not boldened,0.212323474,Full
+152,R_2CO8lv1wEyY2qEn,6,full,32,Encouragement to commit suicide,0.428026438,Full
+153,R_2CO8lv1wEyY2qEn,7,full,33,Insulting language containing expletives,0.186487142,Full
+154,R_2CO8lv1wEyY2qEn,8,some,33,Highlihgted yellow text is anti semetic but would be hard to see unless it was highlighted,0.045876713,Full
+155,R_2CO8lv1wEyY2qEn,9,full,44,Encouragement for drug use,0.447837174,Full
+156,R_2CO8lv1wEyY2qEn,10,full,42,Suggestion to engage in sexually inappropriate manner,0.437124137,Full
+157,R_2CO8lv1wEyY2qEn,11,full,29,Encouragement to commit suicide,0.244730741,Full
+158,R_2CO8lv1wEyY2qEn,12,full,60,Insults and encouragement to commit suicide,0.521094846,Full
+159,R_2CO8lv1wEyY2qEn,13,some,40,Harmful message to harm others but message can only be seen the highlighting of letters in circles,0.143349716,Full
+160,R_2CO8lv1wEyY2qEn,14,some,33,Horrible sentiment but again very buried in the text unless the relevant letters have been highlighted,0.109085077,Full
+161,R_2CO8lv1wEyY2qEn,15,full,58,Message promotes self harm,0.618461072,Full
+162,R_2CO8lv1wEyY2qEn,16,some,29,Message invites arson but again would be invisible if the letter were not highlighted,0.109519972,Full
+163,R_2CO8lv1wEyY2qEn,17,full,38,Sexual abuse promoted,0.41063562,Full
+164,R_2CO8lv1wEyY2qEn,18,some,36,Racist abuse but well hidden without the bold text,0.3188546,Full
+165,R_2CO8lv1wEyY2qEn,19,full,30,Encourages suicide,0.20460381,Full
+166,R_2CO8lv1wEyY2qEn,20,full,18,Insult,0.352187642,Full
+167,R_2CO8lv1wEyY2qEn,21,full,13,Homophobic ,0.363040566,Full
+168,R_5nw4qQz0MxbF0Cl,1,some,93,shoot that politician in the head in bold,0.744503975,Some
+169,R_5nw4qQz0MxbF0Cl,2,some,100,if you don't send me nudes I will send these photos to your parents,0.995006382,Full
+170,R_5nw4qQz0MxbF0Cl,3,some,53,roasting a dog,0.778924061,Full
+171,R_5nw4qQz0MxbF0Cl,4,some,38,saying they are ugly,0.515438318,Some
+172,R_5nw4qQz0MxbF0Cl,5,some,89,slit wrist and watch blood flow,0.818948984,Some
+173,R_5nw4qQz0MxbF0Cl,6,some,100,jump in front of a moving car and end misery,0.961158543,Full
+174,R_5nw4qQz0MxbF0Cl,7,some,63,stupid c word,0.284392672,Some
+175,R_5nw4qQz0MxbF0Cl,8,some,100,kill all the jews,0.821236694,Some
+176,R_5nw4qQz0MxbF0Cl,9,some,100,try this drug now,0.688687004,Full
+177,R_5nw4qQz0MxbF0Cl,10,some,80,send unsolicited d picks,0.40805384,Full
+178,R_5nw4qQz0MxbF0Cl,11,some,100,drink a bottle of bleach and die slowly,1,Full
+179,R_5nw4qQz0MxbF0Cl,12,some,62,encouraging someone to commit suicide,0.403949535,Full
+180,R_5nw4qQz0MxbF0Cl,13,some,100,kill your neighbors and steal,0.933681544,Some
+181,R_5nw4qQz0MxbF0Cl,14,some,80,saying they hoped the daughter gets gang raped,0.812004805,Full
+182,R_5nw4qQz0MxbF0Cl,15,some,99,encouraged others to self harm or commit suicide,0.885168069,Full
+183,R_5nw4qQz0MxbF0Cl,16,some,74,destruction of school or workplace,0.716007769,Full
+184,R_5nw4qQz0MxbF0Cl,17,some,40,encouraging rape,0.532366812,Full
+185,R_5nw4qQz0MxbF0Cl,18,some,58,disparaging remarks against black people,0.511865662,Full
+186,R_5nw4qQz0MxbF0Cl,19,some,48,saying they should hang themself,0.368572726,Some
+187,R_5nw4qQz0MxbF0Cl,20,none,0,INVALID,0.138964493,N
+188,R_5nw4qQz0MxbF0Cl,21,none,11,INVALID,0.092194716,N
+189,R_5z7IuE2MOtRAVW2,1,full,47,reading only the words in bold it promotes physical harm using a gun,0.233460846,Full
+190,R_5z7IuE2MOtRAVW2,2,full,45,reading only the highlighted words it sends a blackmail message to another person regarding nudes,0.395610165,Full
+191,R_5z7IuE2MOtRAVW2,3,full,49,reading only the words in bold it promotes animal cruelty ,0.130374734,Full
+192,R_5z7IuE2MOtRAVW2,4,full,40,connecting the letters in blue it insults someone based on their looks,0.331922213,Full
+193,R_5z7IuE2MOtRAVW2,5,full,44,connecting the letters in bold it reveals physical harm,0.226835913,Full
+194,R_5z7IuE2MOtRAVW2,6,full,37,reading the words in blue it is promoting suicide,0.239528999,Full
+195,R_5z7IuE2MOtRAVW2,7,full,36,reading the words in bubbles it has inappropriate and hateful language ,0.127072271,Full
+196,R_5z7IuE2MOtRAVW2,8,full,45,reading the highlighted words it promotes hate speech toward Jews ,0.425217135,Full
+197,R_5z7IuE2MOtRAVW2,9,full,46,reading the words in blue it promotes drug usage,0.383702255,Full
+198,R_5z7IuE2MOtRAVW2,10,full,49,reading the words in circle it promotes sexual harassment and assault to women online ,0.41393549,Full
+199,R_5z7IuE2MOtRAVW2,11,full,42,reading the words in blue it promotes suicide via consuming bleach ,0.604640365,Full
+200,R_5z7IuE2MOtRAVW2,12,full,44,reading the highlighted words it promotes suicidce,0.057826871,Full
+201,R_5z7IuE2MOtRAVW2,13,full,46,connecting the letters in circles it promotes manslaughter and theft ,0.292242991,Full
+202,R_5z7IuE2MOtRAVW2,14,full,37,connecting the letters in blue it promotes sexual assault,0.302469382,Full
+203,R_5z7IuE2MOtRAVW2,15,full,48,reading the highlighted words it promotes suicide,0.547191517,Full
+204,R_5z7IuE2MOtRAVW2,16,full,30,connecting the highlighted letters it promotes arson ,0.251213119,Full
+205,R_5z7IuE2MOtRAVW2,17,full,44,reading the words in circles it promotes sexual assault,0.336470842,Full
+206,R_5z7IuE2MOtRAVW2,18,full,47,connecting the letters in bold it promotes hate speech towards black people,0.412221682,Full
+207,R_5z7IuE2MOtRAVW2,19,full,40,reading the highlighted words it promotes suicide,0.253508888,Full
+208,R_5z7IuE2MOtRAVW2,20,full,26,reading the words in bold it promotes hate speech and insult,0.223594891,Full
+209,R_5z7IuE2MOtRAVW2,21,full,38,reading the capitalized words it promotes hate speech towards the LGBQT community ,0.112522393,Full
+210,R_3yWGGXM0pI5WqRj,1,full,69,the darkened texts saying to shoot a politician,0.479841202,Full
+211,R_3yWGGXM0pI5WqRj,2,full,67,the highlighted text threatening to send photos to parents if no nudes are sent,0.641727188,Full
+212,R_3yWGGXM0pI5WqRj,3,full,60,the bold talking about roasting a dog,0.627591629,Full
+213,R_3yWGGXM0pI5WqRj,4,full,66,saying that the viewer is ugly and stupid,0.50141716,Full
+214,R_3yWGGXM0pI5WqRj,5,full,77,talking about slitting wrists and watching blood flow,0.8082896,Full
+215,R_3yWGGXM0pI5WqRj,6,full,71,telling someone to jump in front of a car,0.657911142,Full
+216,R_3yWGGXM0pI5WqRj,7,full,63,calling someone a cunt and saying to go fuck yourself,0.628800452,Full
+217,R_3yWGGXM0pI5WqRj,8,full,64,saying to kill jews,0.651965161,Some
+218,R_3yWGGXM0pI5WqRj,9,full,53,telling someone to try a drug,0.453559949,Full
+219,R_3yWGGXM0pI5WqRj,10,full,78,saying to send unsolicited photos to women,0.764003538,Full
+220,R_3yWGGXM0pI5WqRj,11,full,90,says to drink a bottle of bleach and die,0.871807456,Full
+221,R_3yWGGXM0pI5WqRj,12,full,43,saying the reader is ugly and to kill themselves,0.519789473,Full
+222,R_3yWGGXM0pI5WqRj,13,full,64,saying to murder your neighburs and steal their things,0.643602269,Full
+223,R_3yWGGXM0pI5WqRj,14,full,80,saying they hope someones daughter gets raped,0.71858716,Full
+224,R_3yWGGXM0pI5WqRj,15,full,100,says encourage others to self harm or commit suicide,0.926125169,Full
+225,R_3yWGGXM0pI5WqRj,16,full,100,says burn down your school or workplace,0.905705452,Full
+226,R_3yWGGXM0pI5WqRj,17,full,45,saying to rape someone,0.535059929,Some
+227,R_3yWGGXM0pI5WqRj,18,full,93,says black people are lazy and unintelleigent,0.886264377,Full
+228,R_3yWGGXM0pI5WqRj,19,full,89,says to hang yourself pathetic loser,0.88190949,Full
+229,R_3yWGGXM0pI5WqRj,20,full,100,says fuck your mother,0.874964118,Full
+230,R_3yWGGXM0pI5WqRj,21,full,90,it says if youre gay you will go to hell and should be punished,0.812510395,Full
+231,R_2k54xymGIkwvYlG,1,full,100,if you really want to make a difference just shoot that politician in the head,0.982381047,Full
+232,R_2k54xymGIkwvYlG,2,full,100,if you don't send me nudes I will send these photos to your parents,0.995006382,Full
+233,R_2k54xymGIkwvYlG,3,some,100,the best way to cook a dog is to roast it on a spit,1,Full
+234,R_2k54xymGIkwvYlG,4,some,92,yiu are so ugly and stupid that I can't even look at you,0.724545322,Full
+235,R_2k54xymGIkwvYlG,5,full,100,I want to slit my wrists and watch the blood flow out,1,Full
+236,R_2k54xymGIkwvYlG,6,full,100,jump in front of a moving car and end your misery,1,Full
+237,R_2k54xymGIkwvYlG,7,full,100,you're a just a stupid cunt  why don't you fuck yourself,0.945023533,Full
+238,R_2k54xymGIkwvYlG,8,full,100,kill all the jews they're the root of all evil,0.987919241,Full
+239,R_2k54xymGIkwvYlG,9,some,100,this drug will make you feel amazing try it now,0.973370911,Full
+240,R_2k54xymGIkwvYlG,10,some,100,send unsolicited dick pics to women on social media,0.99999997,Full
+241,R_2k54xymGIkwvYlG,11,full,100,drink a bottle of bleach and die slowly,1,Full
+242,R_2k54xymGIkwvYlG,12,full,100,you're a so ugly that you should commit suicide,0.989161461,Full
+243,R_2k54xymGIkwvYlG,13,full,100,kill your neighbors and steal their belongings,0.99999997,Full
+244,R_2k54xymGIkwvYlG,14,full,100,I hope your daughter gets gang raped,1,Full
+245,R_2k54xymGIkwvYlG,15,none,8,INVALID,-0.018292904,N
+246,R_2k54xymGIkwvYlG,16,some,100,burn down your school or workplace,1,Full
+247,R_2k54xymGIkwvYlG,17,full,100,rape that bitch she deserves it,0.985147207,Full
+248,R_2k54xymGIkwvYlG,18,some,100,black people are lazy and unintelligent,0.99999997,Full
+249,R_2k54xymGIkwvYlG,19,full,100,go hang yourself you pathetic loser,1,Full
+250,R_2k54xymGIkwvYlG,20,none,0,INVALID,0.138964493,N
+251,R_2k54xymGIkwvYlG,21,some,100,if you're gay you're going to hell and should be punished,0.994413077,Full
+252,R_3N8INpwoqhWgJPG,1,full,41,It is advocating political violence,0.293105721,Full
+253,R_3N8INpwoqhWgJPG,2,full,48,It is saying they will use revenge porn,0.187644273,Full
+254,R_3N8INpwoqhWgJPG,3,full,46,It is advocating for animal abuse,0.130090669,Full
+255,R_3N8INpwoqhWgJPG,4,full,33,Yes it is calling someone names,0.016742329,N
+256,R_3N8INpwoqhWgJPG,5,full,34,Yes it is promoting self harm,0.229879828,Full
+257,R_3N8INpwoqhWgJPG,6,full,44,yes it is promoting self harm,0.237428144,Full
+258,R_3N8INpwoqhWgJPG,7,full,41,It is calling someone a hurtful name,0.153495282,Some
+259,R_3N8INpwoqhWgJPG,8,full,42,There is antiSemitic calls for violence,0.478236749,Full
+260,R_3N8INpwoqhWgJPG,9,full,45,It is promoting drug use,0.442739043,Full
+261,R_3N8INpwoqhWgJPG,10,full,39,It is telling people to sexually harass others,0.257808351,Full
+262,R_3N8INpwoqhWgJPG,11,full,36,yes it is advocating for self harm,0.024591867,Full
+263,R_3N8INpwoqhWgJPG,12,full,40,yes it is advocating for self harm,0.180328881,Full
+264,R_3N8INpwoqhWgJPG,13,full,62,it is advocating for people to kill and steal,0.319437374,Full
+265,R_3N8INpwoqhWgJPG,14,full,30,it is promoting sexual violence,0.273534745,Full
+266,R_3N8INpwoqhWgJPG,15,full,57,it is advocating for self harm,0.540606038,Full
+267,R_3N8INpwoqhWgJPG,16,full,50,it is telling people to burn down institutions,0.456140635,Full
+268,R_3N8INpwoqhWgJPG,17,full,33,it is advocating for sexual violence,0.202891618,Full
+269,R_3N8INpwoqhWgJPG,18,full,33,it is promoting racial stereotypes,0.381035339,Full
+270,R_3N8INpwoqhWgJPG,19,full,49,it is advocating for self harm,0.074931673,Full
+271,R_3N8INpwoqhWgJPG,20,full,27,it is advocating for family violence,0.170153384,Some
+272,R_3N8INpwoqhWgJPG,21,full,53,it is telling gay people they will go to hell,0.539197997,Full
+273,R_8HO3j0PRmxOWGbf,1,full,40,Its a hatred content and it is very brutal,0.032013738,Full
+274,R_8HO3j0PRmxOWGbf,2,full,11,Blackmailing,0.229589991,Full
+275,R_8HO3j0PRmxOWGbf,3,full,24,Animal Abuse,0.173816716,Full
+276,R_8HO3j0PRmxOWGbf,4,full,32,Bullying and hatred comments,0.291285992,Full
+277,R_8HO3j0PRmxOWGbf,5,full,44,Suicidal thoughts and mentally ill,0.135538582,Full
+278,R_8HO3j0PRmxOWGbf,6,full,31,Incitement to suicide,0.311567843,Full
+279,R_8HO3j0PRmxOWGbf,7,full,36,Strong cursing and hatred,0.192452371,Full
+280,R_8HO3j0PRmxOWGbf,8,full,99,kill all the jews they are the root of all evil,0.970735996,Full
+281,R_8HO3j0PRmxOWGbf,9,none,12,INVALID,0.044511583,N
+282,R_8HO3j0PRmxOWGbf,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+283,R_8HO3j0PRmxOWGbf,11,full,100,drink a bottle of bleach and die slowly,1,Full
+284,R_8HO3j0PRmxOWGbf,12,full,99,you are so ugly that you should commit suicide,0.984844266,Full
+285,R_8HO3j0PRmxOWGbf,13,full,100,kill your neighbors and steal their belongings,0.99999997,Full
+286,R_8HO3j0PRmxOWGbf,14,full,99,I hope you daughter gets gang raped,0.987265944,Full
+287,R_8HO3j0PRmxOWGbf,15,full,90,encourage others to selfharm or commit suicide,0.892514825,Full
+288,R_8HO3j0PRmxOWGbf,16,full,100,burn down your school or workplace,1,Full
+289,R_8HO3j0PRmxOWGbf,17,full,100,rape that bitch she deserves it,0.985147207,Full
+290,R_8HO3j0PRmxOWGbf,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+291,R_8HO3j0PRmxOWGbf,19,full,100,go hang yourself you pathetic loser,1,Full
+292,R_8HO3j0PRmxOWGbf,20,full,100,fuck your mother,0.99999994,Full
+293,R_8HO3j0PRmxOWGbf,21,full,96,You are gay you are going to hell and should be punished,0.872558192,Full
+294,R_2EnNscnofThc8YJ,1,full,43,It ask someone to shoot another person,0.263160958,Full
+295,R_2EnNscnofThc8YJ,2,full,26,Its blackmailing someone,0.189255044,Full
+296,R_2EnNscnofThc8YJ,3,full,40,Its talking about animal brutallity,0.075666036,Full
+297,R_2EnNscnofThc8YJ,4,full,23,Its shaming someone,0.148550451,Full
+298,R_2EnNscnofThc8YJ,5,full,32,It calls for self harm,0.353432596,Full
+299,R_2EnNscnofThc8YJ,6,full,29,Talk about suicidal thoughts,0.286822319,Full
+300,R_2EnNscnofThc8YJ,7,full,27,Its offending someone,0.235857874,Full
+301,R_2EnNscnofThc8YJ,8,full,29,It has genocidal comments,0.257653095,Full
+302,R_2EnNscnofThc8YJ,9,full,42,Ita inviting someone to take drugs,0.408384721,Full
+303,R_2EnNscnofThc8YJ,10,full,60,Its asking to send nudes to women,0.566936067,Full
+304,R_2EnNscnofThc8YJ,11,full,31,Asking for self harm ,0.189087033,Full
+305,R_2EnNscnofThc8YJ,12,full,35,Its offensive in a physical manner,0.117199905,Full
+306,R_2EnNscnofThc8YJ,13,full,67,Talking about killing someone and stealing their belongings,0.570899819,Full
+307,R_2EnNscnofThc8YJ,14,full,72,It hopes for someone daughter to get raped,0.685924947,Full
+308,R_2EnNscnofThc8YJ,15,full,80,Fomenting self harm or suicide,0.71201809,Full
+309,R_2EnNscnofThc8YJ,16,full,72,Asking a school or workplace burning,0.70050689,Full
+310,R_2EnNscnofThc8YJ,17,full,33,Asking for women raping,0.534166813,Full
+311,R_2EnNscnofThc8YJ,18,full,38,Its offensive and racist,0.300902227,Full
+312,R_2EnNscnofThc8YJ,19,full,37,Calling for suicide,0.331001033,Full
+313,R_2EnNscnofThc8YJ,20,full,27,Ooffensive and inapropriatte,0.027990282,N
+314,R_2EnNscnofThc8YJ,21,full,34,Shaming someone for their sexual orientation,0.435435636,Full
+315,R_7H0ExmXx82Uez4l,1,none,7,INVALID,0.020580947,N
+316,R_7H0ExmXx82Uez4l,2,full,100,if you don't send me nudes i will send these photos to your parents,0.995006382,Full
+317,R_7H0ExmXx82Uez4l,3,full,100,the best way to cook a dog is to roast it on a spit,1,Full
+318,R_7H0ExmXx82Uez4l,4,full,92,you're so ugly and stupid that i can't even be ar tolo ok at you,0.787176728,Full
+319,R_7H0ExmXx82Uez4l,5,full,100,I want to slit my wrists and watch the blood flow out,1,Full
+320,R_7H0ExmXx82Uez4l,6,full,100,jump in front of a moving car and end your misery,1,Full
+321,R_7H0ExmXx82Uez4l,7,full,100,you're just a stupid cunt why don't you go fuck yourself,0.990915418,Full
+322,R_7H0ExmXx82Uez4l,8,full,100,kill all the jews they're the root of all evil,0.987919241,Full
+323,R_7H0ExmXx82Uez4l,9,full,100,this drug will make you feel amazing try it now,0.973370911,Full
+324,R_7H0ExmXx82Uez4l,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+325,R_7H0ExmXx82Uez4l,11,full,100,drink a bottle of bleach and die slowly,1,Full
+326,R_7H0ExmXx82Uez4l,12,full,100,you're so ugly that you should commit suicide,1,Full
+327,R_7H0ExmXx82Uez4l,13,full,82,kill yout neighbors and steal the irbel ong in gs,0.621682223,Full
+328,R_7H0ExmXx82Uez4l,14,full,100,i hope your daughter gets gang raped,1,Full
+329,R_7H0ExmXx82Uez4l,15,full,100,encourage others to self harm or commit suicide,0.997236997,Full
+330,R_7H0ExmXx82Uez4l,16,full,100,burn down your school or workplace,1,Full
+331,R_7H0ExmXx82Uez4l,17,full,100,rape that bitch she deserves it,0.985147207,Full
+332,R_7H0ExmXx82Uez4l,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+333,R_7H0ExmXx82Uez4l,19,full,100,go hang yourself you pathetic loser,1,Full
+334,R_7H0ExmXx82Uez4l,20,full,100,fuck your mother,0.99999994,Full
+335,R_7H0ExmXx82Uez4l,21,full,100,if you're gay you're going to hell and should be punished,0.994413077,Full
+336,R_8eWf2dmsi9KSzou,1,full,97,if you really want to make a difference just shoot that politicianhe head,0.94346673,Full
+337,R_8eWf2dmsi9KSzou,2,full,98,if you dont send me the nudes i will send these photos to your parents,0.972861557,Full
+338,R_8eWf2dmsi9KSzou,3,full,100,the best way to cook a dog is to roast it on a spit,1,Full
+339,R_8eWf2dmsi9KSzou,4,full,85,you are so uggly and stupid that I cant look at you,0.724691472,Full
+340,R_8eWf2dmsi9KSzou,5,full,100,I want to slit my wrists and watch the blood flow out,1,Full
+341,R_8eWf2dmsi9KSzou,6,full,100,jump in front of a moving car and end your misery,1,Full
+342,R_8eWf2dmsi9KSzou,7,full,92,you are just a stupid cunt why dont you go fuck yourself,0.963313518,Full
+343,R_8eWf2dmsi9KSzou,8,full,91,l the jews they are the root of all evil,0.841155316,Full
+344,R_8eWf2dmsi9KSzou,9,full,100,this drug will make you feel amazing try it now,0.973370911,Full
+345,R_8eWf2dmsi9KSzou,10,full,100,send unsolicited dick pics to women on social media ,0.99999997,Full
+346,R_8eWf2dmsi9KSzou,11,full,100,drink a bottle of bleach and die slowly,1,Full
+347,R_8eWf2dmsi9KSzou,12,full,99,you are so ugly that you should commit suicide,0.984844266,Full
+348,R_8eWf2dmsi9KSzou,13,full,90,kill your neighbors and steahe irbel ongoings,0.58198,Full
+349,R_8eWf2dmsi9KSzou,14,full,100,I hope your daughter gets gang raped,1,Full
+350,R_8eWf2dmsi9KSzou,15,full,100,encourage others to self harm or commit suicide,0.997236997,Full
+351,R_8eWf2dmsi9KSzou,16,some,100,burn down your school,0.836204817,Some
+352,R_8eWf2dmsi9KSzou,17,full,100,rape that bitch she deserves it,0.985147207,Full
+353,R_8eWf2dmsi9KSzou,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+354,R_8eWf2dmsi9KSzou,19,full,87,go hang your self you pathetic loser,0.979653298,Full
+355,R_8eWf2dmsi9KSzou,20,full,100,fuck your mother,0.99999994,Full
+356,R_8eWf2dmsi9KSzou,21,full,99,if you are gay you are going to hell and should be punished,0.961100106,Full
+357,R_8kYXCF8vN8YTBpD,1,full,100,if you really want to make a difference just shoot that politician in the head,0.982381047,Full
+358,R_8kYXCF8vN8YTBpD,2,full,100,if you don't send me nudes I will send these photos to your parents,0.995006382,Full
+359,R_8kYXCF8vN8YTBpD,3,full,100,the best way to cook a dog is to roast it on a spit,1,Full
+360,R_8kYXCF8vN8YTBpD,4,some,100,you're so ugly and stupid that i can't even bear to look at you,1,Full
+361,R_8kYXCF8vN8YTBpD,5,full,100,i want to slit my wrists and watch the blood flow out,1,Full
+362,R_8kYXCF8vN8YTBpD,6,full,100,jump in front of a moving car and end your misery,1,Full
+363,R_8kYXCF8vN8YTBpD,7,full,100,you're just a stupid cunt why don't you go fuck yourself,0.990915418,Full
+364,R_8kYXCF8vN8YTBpD,8,some,100,kill all the jews they're the root of all evil,0.987919241,Full
+365,R_8kYXCF8vN8YTBpD,9,none,12,INVALID,0.044511583,N
+366,R_8kYXCF8vN8YTBpD,10,full,98,send unsolicited fick pics to women on social media,0.829694986,Full
+367,R_8kYXCF8vN8YTBpD,11,full,100,drink a bottle of bleach and die slowly,1,Full
+368,R_8kYXCF8vN8YTBpD,12,full,98,you're so ugly that you should commit suicede,0.70785918,Full
+369,R_8kYXCF8vN8YTBpD,13,some,100,kill your neighbors and steal their belongings,0.99999997,Full
+370,R_8kYXCF8vN8YTBpD,14,some,100,i hope your daughter gets gang raped,1,Full
+371,R_8kYXCF8vN8YTBpD,15,full,100,encourage others to self harm or commit suicide,0.997236997,Full
+372,R_8kYXCF8vN8YTBpD,16,some,100,burn down your school or workplace,1,Full
+373,R_8kYXCF8vN8YTBpD,17,full,100,rape that bitch she deserves it,0.985147207,Full
+374,R_8kYXCF8vN8YTBpD,18,some,100,black people lazy and unintelligent,0.970195084,Full
+375,R_8kYXCF8vN8YTBpD,19,full,100,go hang yourself you pathetic loser,1,Full
+376,R_8kYXCF8vN8YTBpD,20,some,100,fuck your mother,0.99999994,Full
+377,R_8kYXCF8vN8YTBpD,21,full,100,IF YOU'RE GAY YOU'RE GOING TO HELL AND SHOULD BE PUNISHED,0.994413077,Full
+378,R_88TFLhXgkWPrWU1,1,none,7,INVALID,0.020580947,N
+379,R_88TFLhXgkWPrWU1,2,none,9,INVALID,0.094640872,N
+380,R_88TFLhXgkWPrWU1,3,none,8,INVALID,0.054831316,N
+381,R_88TFLhXgkWPrWU1,4,none,10,INVALID,0.121853892,N
+382,R_88TFLhXgkWPrWU1,5,none,11,INVALID,0.00906417,N
+383,R_88TFLhXgkWPrWU1,6,none,12,INVALID,0.079163822,N
+384,R_88TFLhXgkWPrWU1,7,full,42,perfidiously used a different font to emphasize hatred towards the recipient,0.084855169,Full
+385,R_88TFLhXgkWPrWU1,8,full,20,antisemitic,0.421280635,Full
+386,R_88TFLhXgkWPrWU1,9,none,12,INVALID,0.044511583,N
+387,R_88TFLhXgkWPrWU1,10,full,41,perfidiously used a different font to emphasize degeneration towards the recipient,0.181728041,Full
+388,R_88TFLhXgkWPrWU1,11,none,14,INVALID,0.044290261,N
+389,R_88TFLhXgkWPrWU1,12,none,5,INVALID,0.093852563,N
+390,R_88TFLhXgkWPrWU1,13,full,39,perfidiously used a different font to encourage the wrong recipient,-0.019645741,Full
+391,R_88TFLhXgkWPrWU1,14,full,30,Punishable threats,0.236020885,N
+392,R_88TFLhXgkWPrWU1,15,some,38,Subtextual persuasion to do evil,0.294528246,Full
+393,R_88TFLhXgkWPrWU1,16,some,30,Subtextual persuasion to do evil,0.156135986,Some
+394,R_88TFLhXgkWPrWU1,17,full,42,Accentuating font and punishable threats,0.047924675,N
+395,R_88TFLhXgkWPrWU1,18,some,18,racism,0.384800088,Full
+396,R_88TFLhXgkWPrWU1,19,some,38,Punishable threats,0.054091954,N
+397,R_88TFLhXgkWPrWU1,20,none,0,INVALID,0.138964493,N
+398,R_88TFLhXgkWPrWU1,21,full,34,Hatred towards homosexual people,0.463579237,Full
+399,R_24oqFUi0N2zmd37,1,full,100,Shoot that politician in the head ,0.790922523,Full
+400,R_24oqFUi0N2zmd37,2,some,48,Fully visible Send nudes bribery ,0.478142142,Some
+401,R_24oqFUi0N2zmd37,3,full,43,Cooking animals though some people do ,0.407092392,Some
+402,R_24oqFUi0N2zmd37,4,full,50,This ones a bit off compared to previous ugly shaming ,0.335972726,Some
+403,R_24oqFUi0N2zmd37,5,full,39,Again self harm but broken up easy to read as I you highlighted it would be tricky to decipher otherwise ,0.223436937,Full
+404,R_24oqFUi0N2zmd37,6,full,42,Trying to coax a person who probably is feeling suicidal ,0.262811436,Full
+405,R_24oqFUi0N2zmd37,7,full,36,Yes G F Y cnut,0.248062268,Some
+406,R_24oqFUi0N2zmd37,8,full,39,You weren't lying when you stated offensive were yous ,0.056953911,N
+407,R_24oqFUi0N2zmd37,9,full,36,Promoting drug use ,0.415878361,Full
+408,R_24oqFUi0N2zmd37,10,full,35,People do this unsolicited I watch a few lady gamers other female content creators the comments in Facebook just straight up scandalous I report many many many times hundred more times they reply this does not go against community standards sheesh who's standards zuckerbergs i don't report lightly if I'm offended its phucking offensive ,0.458786517,Full
+409,R_24oqFUi0N2zmd37,11,full,40,Coaxing self harm die ,0.273806125,Full
+410,R_24oqFUi0N2zmd37,12,full,34,Coaxing self harm I've actually read that Young people have killed themselves due to this horrid trolling behaviours again it slides through ,0.278198519,Full
+411,R_24oqFUi0N2zmd37,13,full,35,This would be hard to notice but kill being there would trigger I've never actually thought about nonsense posts like this mow you have me on the look out,0.18207813,Full
+412,R_24oqFUi0N2zmd37,14,full,34,FFS I guess these get sent daddy's got a gun and would could if they find said neighbour school person do them harm enticing anger ,0.387272984,N
+413,R_24oqFUi0N2zmd37,15,full,39,Self harm I did not think I would be triggered by a study but I'm becoming angered im placing myself in the shoes of a struggling teenager ,0.51600124,Full
+414,R_24oqFUi0N2zmd37,16,full,30,Yeah idiots send this this could be extremist a group of many could set a fire ,0.261792653,Full
+415,R_24oqFUi0N2zmd37,17,full,29,Hopefully this study is almost over but at least hey I'm in the amazon draw that will make up for my brain absorbing hate right,-0.031063194,Full
+416,R_24oqFUi0N2zmd37,18,full,29,More hate N word coming ,0.157363697,N
+417,R_24oqFUi0N2zmd37,19,full,23,Hate hate and more hate I see these posts but I've never read a whole bunch at once imagine a Young bullied girl reading twenty posts like these full of hate poor kid will be contemplating on acting out ,0.313970991,Full
+418,R_24oqFUi0N2zmd37,20,full,29,Being a gamer this is old ,0.168159336,N
+419,R_24oqFUi0N2zmd37,21,full,55,Were all going to hell after doing this study jk,0.372021534,Full
+420,R_3CNRgRd4sQ4dwzz,1,full,100,shoot the politician,0.769016325,Full
+421,R_3CNRgRd4sQ4dwzz,2,full,100,send nudes,0.717709861,Some
+422,R_3CNRgRd4sQ4dwzz,3,full,100,cook a dog,0.607286215,Some
+423,R_3CNRgRd4sQ4dwzz,4,full,100,you're so ugly,0.742369436,Some
+424,R_3CNRgRd4sQ4dwzz,5,full,100,slit wrists,0.672698637,Some
+425,R_3CNRgRd4sQ4dwzz,6,full,100,jump in front of a car,0.745536641,Some
+426,R_3CNRgRd4sQ4dwzz,7,full,71,stupid c nt,0.332128336,Some
+427,R_3CNRgRd4sQ4dwzz,8,full,100,kill the ,0.425551027,Some
+428,R_3CNRgRd4sQ4dwzz,9,full,57,drug abuse,0.29940325,Full
+429,R_3CNRgRd4sQ4dwzz,10,full,11,porn,0.358836234,N
+430,R_3CNRgRd4sQ4dwzz,11,full,100,drink bleach,0.883886874,Full
+431,R_3CNRgRd4sQ4dwzz,12,full,100,ugly commit suicide,0.79277892,Full
+432,R_3CNRgRd4sQ4dwzz,13,full,12,murder,0.485246508,Some
+433,R_3CNRgRd4sQ4dwzz,14,full,14,violence,0.286579549,N
+434,R_3CNRgRd4sQ4dwzz,15,full,100,suicide,0.558076262,Some
+435,R_3CNRgRd4sQ4dwzz,16,full,57,school violence,0.438032355,Full
+436,R_3CNRgRd4sQ4dwzz,17,full,26,sexual violence,0.353073039,Full
+437,R_3CNRgRd4sQ4dwzz,18,full,22,racist,0.379213754,Full
+438,R_3CNRgRd4sQ4dwzz,19,full,19,suicide,0.249774441,Some
+439,R_3CNRgRd4sQ4dwzz,20,full,17,violence,0.306584895,N
+440,R_3CNRgRd4sQ4dwzz,21,full,85,going to hell to be punished for being gay,0.879220359,Full
+441,R_7skf15XER4nKf6x,1,none,7,INVALID,0.020580947,N
+442,R_7skf15XER4nKf6x,2,full,73,The words at the end of most of the sentences are harmful because they are threatening the reader that if they do not send them nudes they will send photos to the parents of the reader,0.507254779,Full
+443,R_7skf15XER4nKf6x,3,full,100,The starting word of most of the sentences spell out offensive content in which they write out that the best way to cook a dog is to roast it on a spit ,0.654292464,Full
+444,R_7skf15XER4nKf6x,4,full,87,there are scattered letters everywhere that writes youre so ugy and stupid that i cant even bear to look at you,0.474306941,Full
+445,R_7skf15XER4nKf6x,5,full,100,the user has scattered parts of words in the passage that states i want to slit my wrists and watch the blood flow out,0.66908896,Full
+446,R_7skf15XER4nKf6x,6,full,100,the user has a negative message with words from the end of many sentences that spells out jump in front of a moving car and end your misery,0.545061946,Full
+447,R_7skf15XER4nKf6x,7,full,91,the user has circles around words that are offensive in which it spells out youre just a stupid cunt why dont you go fuck yourself,0.524799645,Full
+448,R_7skf15XER4nKf6x,8,full,88,there are highlighted words that spell kill all the jews theyre the root of all evil,0.775777102,Full
+449,R_7skf15XER4nKf6x,9,full,100,there are words at the beginning of some of the sentences that spells out this drug will make you feel amazing try it out now,0.791023684,Full
+450,R_7skf15XER4nKf6x,10,full,100,there are circled words that spells send unsolicited dick pics to women on social media,0.771639058,Full
+451,R_7skf15XER4nKf6x,11,full,100,there are harmful blue words that spells drink a bottle of bleach and die slowly,0.705638587,Full
+452,R_7skf15XER4nKf6x,12,full,96,there are harmful highlighted words taht spells youre so ugly that you should commit suicide,0.505858913,Full
+453,R_7skf15XER4nKf6x,13,full,100,there are harmful circled words that spell kill your neighbors and steal their belongings,0.637939987,Full
+454,R_7skf15XER4nKf6x,14,full,100,there are harmful blue words that spell i hope your daughter gets gang raped,0.706208369,Full
+455,R_7skf15XER4nKf6x,15,full,100,there are harmful yellow highlighted words that say encourage others to self harm or commit suicide,0.656422436,Full
+456,R_7skf15XER4nKf6x,16,full,92,there are harmful yellow words that spells durn down your school or workplace,0.476746542,Full
+457,R_7skf15XER4nKf6x,17,full,100,there are harmful circled letters that spell rape that bitch she deserves it,0.651889047,Full
+458,R_7skf15XER4nKf6x,18,full,100,there are harmful black bolded letters that spelled black people are lazy and unintelligent,0.77925142,Full
+459,R_7skf15XER4nKf6x,19,full,92,there are highlighted harmful words that state go hand yourself you pathetic loser,0.421000779,Full
+460,R_7skf15XER4nKf6x,20,full,100,there are bold insulting words that spell fuck your mother,0.636578083,Full
+461,R_7skf15XER4nKf6x,21,full,89,there are harmful words that are capitalized that spell youre gay your going to hell and should be punished,0.580590963,Full
+462,R_30eOBbPi1VuHfw3,1,full,100,If you really want to make a difference just shoot that politician in the head,0.982381047,Full
+463,R_30eOBbPi1VuHfw3,2,full,100,if you don't send me nudes I will send these photos to your parents,0.995006382,Full
+464,R_30eOBbPi1VuHfw3,3,some,100,the best way to cook a dog is to roast it on a spit,1,Full
+465,R_30eOBbPi1VuHfw3,4,full,100,you're so ugly and stupid that i can't even bear to look at you,1,Full
+466,R_30eOBbPi1VuHfw3,5,full,100,i want to slit my wrists and watch the blood flow out,1,Full
+467,R_30eOBbPi1VuHfw3,6,full,100,jump in front of a moving car and end your misery,1,Full
+468,R_30eOBbPi1VuHfw3,7,full,100,you're just a stupid cunt why don't you go fuck yourself,0.990915418,Full
+469,R_30eOBbPi1VuHfw3,8,full,100,kill all the jews they're the root of all evil,0.987919241,Full
+470,R_30eOBbPi1VuHfw3,9,full,100,this drug will make you feel amazing try it now,0.973370911,Full
+471,R_30eOBbPi1VuHfw3,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+472,R_30eOBbPi1VuHfw3,11,full,100,drink a bottle of bleach and die slowly,1,Full
+473,R_30eOBbPi1VuHfw3,12,full,100,you're so ugly that you should commit suicide,0.99999997,Full
+474,R_30eOBbPi1VuHfw3,13,full,100,kill your neighbors and steal their belongings,0.99999997,Full
+475,R_30eOBbPi1VuHfw3,14,full,100,i hope your daughter gets gang raped,1,Full
+476,R_30eOBbPi1VuHfw3,15,full,100,encourage others to self harm or commit suicide,0.997236997,Full
+477,R_30eOBbPi1VuHfw3,16,full,100,burn down your school or workplace,1,Full
+478,R_30eOBbPi1VuHfw3,17,full,100,rape that bitch she deserves it,0.985147207,Full
+479,R_30eOBbPi1VuHfw3,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+480,R_30eOBbPi1VuHfw3,19,full,100,go hang yourself you pathetic loser,1,Full
+481,R_30eOBbPi1VuHfw3,20,full,100,fuck your mother,1,Full
+482,R_30eOBbPi1VuHfw3,21,full,100,if you're gay you're going to hell and should be punished,0.994413077,Full
+483,R_2rjOl5BTfblZWdX,1,none,7,INVALID,0.020580947,N
+484,R_2rjOl5BTfblZWdX,2,full,99,if you dont send me nudes i will send these photos to your parents,0.984165757,Full
+485,R_2rjOl5BTfblZWdX,3,full,100,the best way to cook a dog is to roast it on a spit,1,Full
+486,R_2rjOl5BTfblZWdX,4,full,95,you are so ugly and stupid that i cant even bear to look at you,0.978097199,Full
+487,R_2rjOl5BTfblZWdX,5,full,100,i want to slit my wrists and watch the blood flow out,1,Full
+488,R_2rjOl5BTfblZWdX,6,full,100,jump in front of a moving car and end your misery,1,Full
+489,R_2rjOl5BTfblZWdX,7,full,92,you are just a stupid cunt why dont you go fuck yourself,0.963313518,Full
+490,R_2rjOl5BTfblZWdX,8,full,99,kill all the jews they are the root of all evil,0.970735996,Full
+491,R_2rjOl5BTfblZWdX,9,full,100,this drug will make you feel amazing try it now,0.973370911,Full
+492,R_2rjOl5BTfblZWdX,10,full,99,send unsolicited dick picks to women on social media,0.837827767,Full
+493,R_2rjOl5BTfblZWdX,11,full,100,drink a bottle of bleach and die slowly,1,Full
+494,R_2rjOl5BTfblZWdX,12,full,94,you are so ugly you should commit suicide,0.966605811,Full
+495,R_2rjOl5BTfblZWdX,13,full,100,kill your neighbors and steal their belongings,0.99999997,Full
+496,R_2rjOl5BTfblZWdX,14,full,97,i hope your daughter gets gank raped,0.81093514,Full
+497,R_2rjOl5BTfblZWdX,15,full,100,encourage others to self harm or commit suicide,0.997236997,Full
+498,R_2rjOl5BTfblZWdX,16,full,100,burn down your school or workplace,1,Full
+499,R_2rjOl5BTfblZWdX,17,full,100,rape that bitch she deserves it,0.985147207,Full
+500,R_2rjOl5BTfblZWdX,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+501,R_2rjOl5BTfblZWdX,19,full,100,go hang yourself you pathetic loser,1,Full
+502,R_2rjOl5BTfblZWdX,20,full,100,fuck your mother,0.99999994,Full
+503,R_2rjOl5BTfblZWdX,21,full,99,if you are gay you are going to hell and should be punished ,0.961100106,Full
+504,R_6srk32WZLz36p9v,1,none,7,INVALID,0.020580947,N
+505,R_6srk32WZLz36p9v,2,full,100,if you don't send me some nudes I will send these photos to your parents,0.989587604,Full
+506,R_6srk32WZLz36p9v,3,full,100,the best way to cook a dog is to roast it on a spit,1,Full
+507,R_6srk32WZLz36p9v,4,full,93,your'e so ugly and stupid thinking about it I can't even bear to look at you,0.850792706,Full
+508,R_6srk32WZLz36p9v,5,full,93,I want to slit my wristsand watch the blood flow out,0.978639783,Full
+509,R_6srk32WZLz36p9v,6,full,100,jump in front of a moving car and end your misery,1,Full
+510,R_6srk32WZLz36p9v,7,full,97,your just a stupid cunt why don't you go fuck yourself,0.966849742,Full
+511,R_6srk32WZLz36p9v,8,full,92,kill all the Jews their the root of all evil,0.967173696,Full
+512,R_6srk32WZLz36p9v,9,full,100,This drug will make you feel amazing try it now,0.973370911,Full
+513,R_6srk32WZLz36p9v,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+514,R_6srk32WZLz36p9v,11,full,100,drink a bottle of bleach and die slowly,1,Full
+515,R_6srk32WZLz36p9v,12,full,100,you're so ugly you should commit suicide,0.98183158,Full
+516,R_6srk32WZLz36p9v,13,full,100,kill your neighbors and steal their belongings,0.99999997,Full
+517,R_6srk32WZLz36p9v,14,full,100,I hope your daughter gets gang raped,1,Full
+518,R_6srk32WZLz36p9v,15,full,100,encourage others to self harm or commit suicide,0.997236997,Full
+519,R_6srk32WZLz36p9v,16,full,100,burn down your school or workplace,1,Full
+520,R_6srk32WZLz36p9v,17,full,100,rape that bitch she deserves it,0.985147207,Full
+521,R_6srk32WZLz36p9v,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+522,R_6srk32WZLz36p9v,19,full,100,go hang yourself you pathetic loser,1,Full
+523,R_6srk32WZLz36p9v,20,full,100,fuck your mother,1,Full
+524,R_6srk32WZLz36p9v,21,full,97,your gay you're going to hell and should be punished,0.909455381,Full
+525,R_6eEkfIknHNARjUj,1,full,100,if you really want to make a difference just shoot that politician in the head,0.982381047,Full
+526,R_6eEkfIknHNARjUj,2,full,95,if you dont send me nudes i will send these to your parents,0.93982631,Full
+527,R_6eEkfIknHNARjUj,3,full,100,the best way to cook a dog is to roast it ,0.899070084,Some
+528,R_6eEkfIknHNARjUj,4,full,95,youre so ugly and stupid that i cant even bear to look at you,0.92277127,Some
+529,R_6eEkfIknHNARjUj,5,full,100,i want to slit my wrists and watch the blood flow out,1,Full
+530,R_6eEkfIknHNARjUj,6,full,100,jump in front of a moving car and end your misery,1,Full
+531,R_6eEkfIknHNARjUj,7,full,94,youre just a stupid cunt why dont you go fuck yourself,0.916770761,Full
+532,R_6eEkfIknHNARjUj,8,full,93,kill all the jews theyre the root of all evil,0.95734292,Full
+533,R_6eEkfIknHNARjUj,9,full,100,this drug will make you feel amazing try it now,0.973370911,Full
+534,R_6eEkfIknHNARjUj,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+535,R_6eEkfIknHNARjUj,11,full,100,drink a bottle of bleach and die slowly,1,Full
+536,R_6eEkfIknHNARjUj,12,full,96,youre so ugly that you should commit suicide,0.932933478,Full
+537,R_6eEkfIknHNARjUj,13,full,100,kill your neighbors and steal their belongings,0.99999997,Full
+538,R_6eEkfIknHNARjUj,14,full,88,i hope your daughter gets r word ,0.652047634,Full
+539,R_6eEkfIknHNARjUj,15,full,100,encourage others to self harm or commit suicide ,0.997236997,Full
+540,R_6eEkfIknHNARjUj,16,full,97,burn down tour school or workplace,0.771019408,Full
+541,R_6eEkfIknHNARjUj,17,full,91,r word that bitch she deserves it,0.747720674,Full
+542,R_6eEkfIknHNARjUj,18,full,100,black people are lazy and unintelligent ,0.99999997,Full
+543,R_6eEkfIknHNARjUj,19,full,100,go hang yourself you pathetic loser,1,Full
+544,R_6eEkfIknHNARjUj,20,full,100,fuck your mother,1,Full
+545,R_6eEkfIknHNARjUj,21,full,95,if youre gay youre going to hell and should be punished ,0.897911191,Full
+546,R_7kGGyVWZD0bc09Y,1,full,100,shoot that politician in the head,0.790922523,Full
+547,R_7kGGyVWZD0bc09Y,2,full,100,send me nudes,0.744149641,Some
+548,R_7kGGyVWZD0bc09Y,3,full,100,the best way to cook a dog,0.788517714,Some
+549,R_7kGGyVWZD0bc09Y,4,full,100,you're so ugly and stupid,0.802133036,Some
+550,R_7kGGyVWZD0bc09Y,5,full,85,I want to slit my wrist,0.808461929,Some
+551,R_7kGGyVWZD0bc09Y,6,full,100,Jump in front of a moving car,0.751274779,Some
+552,R_7kGGyVWZD0bc09Y,7,full,100,Stupid cunt go fuck yourself,0.811101342,Full
+553,R_7kGGyVWZD0bc09Y,8,full,100,Kill all the jews,0.821236694,Some
+554,R_7kGGyVWZD0bc09Y,9,full,100,this drug will make you feel amazing try it now,0.973370911,Full
+555,R_7kGGyVWZD0bc09Y,10,full,100,Send unsolicited dick pics,0.870806482,Full
+556,R_7kGGyVWZD0bc09Y,11,full,100,Drink a bottle of bleach and die slowly,1,Full
+557,R_7kGGyVWZD0bc09Y,12,full,100,You should commit suicide ,0.692984343,Full
+558,R_7kGGyVWZD0bc09Y,13,full,100,Kill your neighbors and steal their belongings,0.99999997,Full
+559,R_7kGGyVWZD0bc09Y,14,full,100,I hope your daughter gets gang raped,1,Full
+560,R_7kGGyVWZD0bc09Y,15,full,100,commit suicide,0.591343778,Some
+561,R_7kGGyVWZD0bc09Y,16,full,100,Burn down your school or workplace,1,Full
+562,R_7kGGyVWZD0bc09Y,17,full,100,Rape that bitch,0.837915063,Some
+563,R_7kGGyVWZD0bc09Y,18,none,14,INVALID,0.040794602,N
+564,R_7kGGyVWZD0bc09Y,19,full,100,Go hang yourself you pathetic loser,1,Full
+565,R_7kGGyVWZD0bc09Y,20,full,100,Fuck your mother,1,Full
+566,R_7kGGyVWZD0bc09Y,21,full,100,Going to hell and should be punished,0.777147532,Full
+567,R_5AR1hueClV9DRf3,1,full,59,I see a bolded sentence about shooting a politician in the head,0.59006461,Full
+568,R_5AR1hueClV9DRf3,2,full,57,I see a highlighted statement with a threat for nudes with a blackmail threat to send pictures to the parents,0.56896271,Full
+569,R_5AR1hueClV9DRf3,3,full,51,I see a harmful comment about cooking a dog,0.468656003,Full
+570,R_5AR1hueClV9DRf3,4,full,80,I see a harmful statement calling someone stupid and ugly and can't bear to look at them,0.594650745,Full
+571,R_5AR1hueClV9DRf3,5,full,85,I see a comment about wanting to slit wrists and watching the blood flow out,0.792129278,Full
+572,R_5AR1hueClV9DRf3,6,full,74,I recognized harmful content about suicide by jumping in front of a bus to end your misery,0.581274211,Full
+573,R_5AR1hueClV9DRf3,7,full,50,I see harmful content with someone calling them a stupid cunt and to go f themselves,0.517552555,Full
+574,R_5AR1hueClV9DRf3,8,full,55,I see a racist comment about killing the Jews,0.574907558,Full
+575,R_5AR1hueClV9DRf3,9,full,47,I see a harmful comment promoting drug use,0.338304102,Full
+576,R_5AR1hueClV9DRf3,10,full,75,I see a comment suggesting that one sends unsolicited dick pics to women,0.820776725,Full
+577,R_5AR1hueClV9DRf3,11,full,53,I see a harmful comment about drinking bleach to commit suicide,0.659016848,Full
+578,R_5AR1hueClV9DRf3,12,full,48,I see a harmful comment about being ugly and committing suicide,0.695340356,Full
+579,R_5AR1hueClV9DRf3,13,full,79,I see a harmful comment about killing neighbors and stealing their belongings,0.624838389,Full
+580,R_5AR1hueClV9DRf3,14,full,84,I see a harmful comment about someone hoping a daughter gets gang raped,0.753451243,Full
+581,R_5AR1hueClV9DRf3,15,full,65,I see harmful content about encourging someone to commit suicide,0.567657496,Full
+582,R_5AR1hueClV9DRf3,16,full,76,I see harmful content about burning down a school and a workplace,0.753677674,Full
+583,R_5AR1hueClV9DRf3,17,full,47,I see harmful content about raping a bitch,0.530131876,Some
+584,R_5AR1hueClV9DRf3,18,full,100,I see harmful content that says black people are lazy and unintelligent,0.822588254,Full
+585,R_5AR1hueClV9DRf3,19,full,39,I see harmful content about going to hang oneself and encouraging suicide,0.353336096,Full
+586,R_5AR1hueClV9DRf3,20,full,81,I see harmful content about going to fuck one's mother,0.538419279,Full
+587,R_5AR1hueClV9DRf3,21,full,59,I see harmful content telling someone that they are gay and going to hell as a result,0.580118537,Full
+588,R_4YJ3u0kQOy4zD6u,1,none,7,INVALID,0.020580947,N
+589,R_4YJ3u0kQOy4zD6u,2,some,48,comment seems to mention about seeing nudes,0.487615152,Some
+590,R_4YJ3u0kQOy4zD6u,3,none,8,INVALID,0.054831316,N
+591,R_4YJ3u0kQOy4zD6u,4,none,10,INVALID,0.121853892,N
+592,R_4YJ3u0kQOy4zD6u,5,none,11,INVALID,0.00906417,N
+593,R_4YJ3u0kQOy4zD6u,6,none,12,INVALID,0.079163822,N
+594,R_4YJ3u0kQOy4zD6u,7,full,55,profanity words like fuck cunt are used in the comment,0.41071406,Some
+595,R_4YJ3u0kQOy4zD6u,8,none,5,INVALID,0.051420528,N
+596,R_4YJ3u0kQOy4zD6u,9,full,42,comment has a pattern of words indicating drugs usage,0.341143707,Full
+597,R_4YJ3u0kQOy4zD6u,10,full,54,pattern of words using ascii for sending lewd photos to women,0.521577791,Some
+598,R_4YJ3u0kQOy4zD6u,11,full,42,suicide is discussed using bleach,0.644102216,Full
+599,R_4YJ3u0kQOy4zD6u,12,full,46,suicide is promoted by insult,0.491450861,Full
+600,R_4YJ3u0kQOy4zD6u,13,full,54,promotes murder and stealing from neighbors,0.639266887,Full
+601,R_4YJ3u0kQOy4zD6u,14,full,62,promotes gangrape of daughter,0.579578834,Full
+602,R_4YJ3u0kQOy4zD6u,15,full,63,promotes self harm and sucide,0.786500262,Full
+603,R_4YJ3u0kQOy4zD6u,16,full,83,promotes burning down of school or workplace,0.81467104,Full
+604,R_4YJ3u0kQOy4zD6u,17,full,35,promotes raping of a women,0.525012732,Full
+605,R_4YJ3u0kQOy4zD6u,18,full,95,promotes racial discrimination by calling black people lazy and unintelligent,0.793165231,Full
+606,R_4YJ3u0kQOy4zD6u,19,full,39,promotes sucide by hanging and insult,0.410623634,Full
+607,R_4YJ3u0kQOy4zD6u,20,full,100,promotes inbreeding and has profanity fuck your mother,0.545400278,Full
+608,R_4YJ3u0kQOy4zD6u,21,full,97,IF YOU ARE GAY YOU ARE GOING TO HELL AND SHOULD BE PUNISHED promotes LGBTQ hate,0.81266197,Full
+609,R_20rBBA1kzXl0B7J,1,full,58,Harmful content of an act of violence of shooting a politician in the head,0.57029685,Full
+610,R_20rBBA1kzXl0B7J,2,full,44,A threat of sharing someones nudes,0.471078529,Full
+611,R_20rBBA1kzXl0B7J,3,full,49,A description of cooking a dog,0.592716539,Full
+612,R_20rBBA1kzXl0B7J,4,full,40,Hurtful words about a persons appearance and intelligence,0.386021584,Full
+613,R_20rBBA1kzXl0B7J,5,full,17,Suicide reference,0.193516627,Full
+614,R_20rBBA1kzXl0B7J,6,full,32,Harmful words about suicide,0.318343878,Full
+615,R_20rBBA1kzXl0B7J,7,full,28,Inappropriate language use,0.164496958,N
+616,R_20rBBA1kzXl0B7J,8,full,42,A genocide comment about Jews ,0.551772551,Full
+617,R_20rBBA1kzXl0B7J,9,full,42,The promotion of drug use,0.375891358,Full
+618,R_20rBBA1kzXl0B7J,10,full,35,An inappropriate message,0.367800068,N
+619,R_20rBBA1kzXl0B7J,11,full,29,Harmful suicide encouragement,0.193432629,Full
+620,R_20rBBA1kzXl0B7J,12,full,48,Harmful insults and suicide encouragements,0.445157124,Full
+621,R_20rBBA1kzXl0B7J,13,full,40,A harmful encouragement to commit murder and theft,0.466996324,Full
+622,R_20rBBA1kzXl0B7J,14,full,44,A harmful message about rape,0.415110171,Some
+623,R_20rBBA1kzXl0B7J,15,full,62,A harmful suicide encouragement,0.76781857,Full
+624,R_20rBBA1kzXl0B7J,16,full,38,Encouragement to violently commit arson,0.404757285,Full
+625,R_20rBBA1kzXl0B7J,17,full,44,A harmful encouragement message about rape,0.496537074,Full
+626,R_20rBBA1kzXl0B7J,18,full,36,An offensive racist comment,0.369231831,Full
+627,R_20rBBA1kzXl0B7J,19,full,32,Suicide encouragement,0.274495423,Full
+628,R_20rBBA1kzXl0B7J,20,full,22,Inappropriate language and suggestion of incest,0.306216359,Full
+629,R_20rBBA1kzXl0B7J,21,full,33,A harmful homophobic comment,0.442182567,Full
+630,R_8meBtVAVZ7CbfIS,1,full,17,A dead body,0.019560351,N
+631,R_8meBtVAVZ7CbfIS,2,some,37,When they where threatening someone ,0.046397572,Some
+632,R_8meBtVAVZ7CbfIS,3,full,40,People swearing at each other ,0.031311534,Full
+633,R_8meBtVAVZ7CbfIS,4,full,15,Swearing ,0.134501293,Full
+634,R_8meBtVAVZ7CbfIS,5,full,20,Threats ,0.083381432,N
+635,R_8meBtVAVZ7CbfIS,6,some,52,Telling someone to just on a moving car,0.547073218,Full
+636,R_8meBtVAVZ7CbfIS,7,some,32,Saying bad things to someone ,0.162213475,Some
+637,R_8meBtVAVZ7CbfIS,8,some,57,Saying they want to kill someone ,0.381352626,Some
+638,R_8meBtVAVZ7CbfIS,9,some,33,Talking about drugs,0.375729121,Some
+639,R_8meBtVAVZ7CbfIS,10,some,34,Saying things that are inappropriate ,0.275217124,N
+640,R_8meBtVAVZ7CbfIS,11,some,32,Giving bad advices,0.20501776,Full
+641,R_8meBtVAVZ7CbfIS,12,some,35,Talking bad to someone,0.22857218,Some
+642,R_8meBtVAVZ7CbfIS,13,some,73,Telling someone to kill their neighbors ,0.675380807,Some
+643,R_8meBtVAVZ7CbfIS,14,some,44,Wishing someone's daughter something evil ,0.499416202,Full
+644,R_8meBtVAVZ7CbfIS,15,some,51,Encouraging others something bad,0.579214692,Some
+645,R_8meBtVAVZ7CbfIS,16,some,19,Giving bad advices,0.216330303,Some
+646,R_8meBtVAVZ7CbfIS,17,some,48,Telling someone to rape,0.575190919,Some
+647,R_8meBtVAVZ7CbfIS,18,some,21,Swearing ,0.105974342,N
+648,R_8meBtVAVZ7CbfIS,19,full,35,Saying bad things ,0.15348939,N
+649,R_8meBtVAVZ7CbfIS,20,some,17,Swearing ,0.386110902,Some
+650,R_8meBtVAVZ7CbfIS,21,some,29,Giving bad advices,0.128767371,n
+651,R_8NyXJjACuAWe3u6,1,full,89,a call to shoot a politician,0.640996001,Full
+652,R_8NyXJjACuAWe3u6,2,full,53,a threat to send inappropriate images to somebodys parents,0.552458438,Full
+653,R_8NyXJjACuAWe3u6,3,full,58,advice about how to cook a pet dog,0.648112257,Full
+654,R_8NyXJjACuAWe3u6,4,none,10,INVALID,0.121853892,N
+655,R_8NyXJjACuAWe3u6,5,full,38,The embedded message is about grievous self harm,0.191877797,Full
+656,R_8NyXJjACuAWe3u6,6,some,39,The embedded message could be seen as harmful to some people,0.112348855,Full
+657,R_8NyXJjACuAWe3u6,7,full,36,the message includes an insult with foul language,0.291423321,Full
+658,R_8NyXJjACuAWe3u6,8,full,42,The embedded message is racist and supports violence,0.277253831,Full
+659,R_8NyXJjACuAWe3u6,9,some,48,the message encourages the use of a drug,0.455461386,Full
+660,R_8NyXJjACuAWe3u6,10,full,41,the embedded message encourages the sending of pornographic images,0.562161462,Full
+661,R_8NyXJjACuAWe3u6,11,full,54,the message encourages someone to drink bleach,0.605041862,Full
+662,R_8NyXJjACuAWe3u6,12,full,50,the message is insulting and encourages suicide,0.407863271,Full
+663,R_8NyXJjACuAWe3u6,13,some,58,the embedded message encourages someone to kill neighbours,0.427967123,Some
+664,R_8NyXJjACuAWe3u6,14,full,46,The message is an offensive comment about someones daughter,0.433730636,Full
+665,R_8NyXJjACuAWe3u6,15,full,65,the message clearly encourgaes self harm or worse,0.507660449,Full
+666,R_8NyXJjACuAWe3u6,16,some,34,the embedded message encourages arson,0.253346995,Full
+667,R_8NyXJjACuAWe3u6,17,full,42,the message encourages violent behaviour,0.185509134,Full
+668,R_8NyXJjACuAWe3u6,18,full,34,the message includes offensive racist claims,0.352831125,Full
+669,R_8NyXJjACuAWe3u6,19,full,35,the message is clearly encourgaing self harm,0.179046582,Full
+670,R_8NyXJjACuAWe3u6,20,full,20,the embedded message is clearly insulting and offensive,0.186907327,N
+671,R_8NyXJjACuAWe3u6,21,full,47,The embedded message is offensive to gay people,0.46127787,Full
+672,R_8rDK8LZX4emZtEO,1,full,67,They want to shoot someone,0.294562161,Full
+673,R_8rDK8LZX4emZtEO,2,full,31,They are blackmailing someone,0.205525404,Full
+674,R_8rDK8LZX4emZtEO,3,none,8,INVALID,0.054831316,N
+675,R_8rDK8LZX4emZtEO,4,full,61,Someone is being called ugly and stupid which can lower their self esteem,0.523212373,Full
+676,R_8rDK8LZX4emZtEO,5,full,38,Its a sign of depression to cut your self,0.186953872,Full
+677,R_8rDK8LZX4emZtEO,6,full,41,They are encouraging someone to kill them selves ,0.174163461,Full
+678,R_8rDK8LZX4emZtEO,7,full,47,Insulting someone and calling them stupid,0.336810797,Full
+679,R_8rDK8LZX4emZtEO,8,none,5,INVALID,0.051420528,N
+680,R_8rDK8LZX4emZtEO,9,full,40,encouraging someone to take drugs,0.40376336,Full
+681,R_8rDK8LZX4emZtEO,10,full,55,they want the person to send unpleasant pics to women,0.729687712,Full
+682,R_8rDK8LZX4emZtEO,11,full,35,encouraging someone to commit sucide,0.256106824,Full
+683,R_8rDK8LZX4emZtEO,12,full,35,mocking someone and encouraging them to kill themseleves,0.198985243,Full
+684,R_8rDK8LZX4emZtEO,13,full,61,they want them to kill and steal,0.407535786,Full
+685,R_8rDK8LZX4emZtEO,14,full,49,wishing bad thing to someones daughter,0.463881763,Full
+686,R_8rDK8LZX4emZtEO,15,full,67,they want people to commit suicide,0.577518344,Full
+687,R_8rDK8LZX4emZtEO,16,full,61,encouraging student to burndown school,0.663747251,Full
+688,R_8rDK8LZX4emZtEO,17,full,100,rape that bitch she deserves it,0.985147207,Full
+689,R_8rDK8LZX4emZtEO,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+690,R_8rDK8LZX4emZtEO,19,full,100,go hang yourself you pathetic loser,1,Full
+691,R_8rDK8LZX4emZtEO,20,full,100,fuck your mother,1,Full
+692,R_8rDK8LZX4emZtEO,21,full,89,if your gay youre going to hell and be punished,0.886653152,Full
+693,R_7dZIMNRhgvSqOiZ,1,full,100,Bold words form the sentence If you really want to make a difference just shoot that politician in the head,0.79659636,Full
+694,R_7dZIMNRhgvSqOiZ,2,full,100,If you don't send me nudes I will send these photos to your parents,0.995006382,Full
+695,R_7dZIMNRhgvSqOiZ,3,full,100,The best way to cook a dog is to roast it on a spit,1,Full
+696,R_7dZIMNRhgvSqOiZ,4,full,100,You're so ugly and stupid that i can't even bear to look at you,1,Full
+697,R_7dZIMNRhgvSqOiZ,5,full,100,I want to slit my wrists and watch the blood flow out,1,Full
+698,R_7dZIMNRhgvSqOiZ,6,full,95,jump infront of a moving car and end your misery,0.981498271,Full
+699,R_7dZIMNRhgvSqOiZ,7,full,100,you're just a stupid cunt why don't you go fuck yourself,0.990915418,Full
+700,R_7dZIMNRhgvSqOiZ,8,full,100,kill all the jews they're the root of all evil,0.987919241,Full
+701,R_7dZIMNRhgvSqOiZ,9,full,100,this drug will make you feel amazing try it now ,0.973370911,Full
+702,R_7dZIMNRhgvSqOiZ,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+703,R_7dZIMNRhgvSqOiZ,11,full,100,drink a bottle of bleach and die slowly,1,Full
+704,R_7dZIMNRhgvSqOiZ,12,full,100,you're so ugly that you should commit suicide,1,Full
+705,R_7dZIMNRhgvSqOiZ,13,full,92,kill your neighborsand steal their belongings,0.972865759,Full
+706,R_7dZIMNRhgvSqOiZ,14,full,100,i hope your daughter gets gang raped,1,Full
+707,R_7dZIMNRhgvSqOiZ,15,full,100,encourage others to self harm or commit suicide,0.997236997,Full
+708,R_7dZIMNRhgvSqOiZ,16,full,100,burn down your school or workplace,1,Full
+709,R_7dZIMNRhgvSqOiZ,17,full,100,rape that bitch she deserves it,0.985147207,Full
+710,R_7dZIMNRhgvSqOiZ,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+711,R_7dZIMNRhgvSqOiZ,19,full,99,go hang yourself you pathetic looser,0.904632741,Full
+712,R_7dZIMNRhgvSqOiZ,20,full,100,fuck your mother,1,Full
+713,R_7dZIMNRhgvSqOiZ,21,full,100,if you're gay you're going to hell and should be punished,0.994413077,Full
+714,R_83131ETBYTIk7YJ,1,full,44,Shooting someone on the head ,0.441704903,Full
+715,R_83131ETBYTIk7YJ,2,some,46,Threats for not sending nudes,0.598320979,Full
+716,R_83131ETBYTIk7YJ,3,full,56,Cooking a Dog,0.65509504,Some
+717,R_83131ETBYTIk7YJ,4,some,66,Telling someone that they ugly and stupid,0.566082494,Some
+718,R_83131ETBYTIk7YJ,5,full,60,Self harm slitting the wrist to see blood ,0.710271597,Full
+719,R_83131ETBYTIk7YJ,6,full,59,Telling someone to kill themselves buy jumping infront of a moving car,0.65593175,Full
+720,R_83131ETBYTIk7YJ,7,full,48,Using improper words to someone such a calling them cunt,0.367592197,Some
+721,R_83131ETBYTIk7YJ,8,full,67,Killing the jews,0.733018279,Full
+722,R_83131ETBYTIk7YJ,9,full,49,Teaching someone to take drugs,0.369273164,Full
+723,R_83131ETBYTIk7YJ,10,full,66,Sending pictures of private parts to women on Social media ,0.772981524,Full
+724,R_83131ETBYTIk7YJ,11,full,44,Tachi people on how to kill themselves by bleach,0.560808506,Full
+725,R_83131ETBYTIk7YJ,12,full,48,Encouraging someone to kill themselves because they're ugly ,0.668058177,Full
+726,R_83131ETBYTIk7YJ,13,full,91,Killing neighbours and to steal  their belongings ,0.836177111,Full
+727,R_83131ETBYTIk7YJ,14,full,99,I hope your daughter get gang raped,0.996641517,Full
+728,R_83131ETBYTIk7YJ,15,some,39,Encouraging selfharm,0.571538482,Some
+729,R_83131ETBYTIk7YJ,16,some,84,Burning down school or work place,0.817498494,Full
+730,R_83131ETBYTIk7YJ,17,full,100,Rape that bitch she deserves it ,0.985147207,Full
+731,R_83131ETBYTIk7YJ,18,full,100,Black People are lazy and unintelligent ,0.99999997,Full
+732,R_83131ETBYTIk7YJ,19,full,99,Go hang yourself you pathetic looser,0.904632741,Full
+733,R_83131ETBYTIk7YJ,20,full,100,Fuck your mother ,1,Full
+734,R_83131ETBYTIk7YJ,21,full,100,If you're gay you are going to hell and should be punished ,0.983124971,Full
+735,R_2WthiYxu8peXSbD,1,full,100,it is highlight in bold the following message   if you really want to make a difference just shoot that politician in the head,0.586811721,Full
+736,R_2WthiYxu8peXSbD,2,full,32,it is highlighted a threat,0.00403665,Full
+737,R_2WthiYxu8peXSbD,3,full,100,the words highlighted in bold make the following sentence   the best way to cook a dog is to roast it on a spit,0.745310218,Full
+738,R_2WthiYxu8peXSbD,4,full,87,if we combine the words and letters highlighted in blue it says    youre so uugly and stupid that I cant even bear to look at you,0.514587641,Full
+739,R_2WthiYxu8peXSbD,5,full,100,if we combine the words and letters highlighted in bold it says    I want to slit my wrists and watch the blood flow out,0.724201441,Full
+740,R_2WthiYxu8peXSbD,6,full,100,If we combine the words highlighted in blue it says     Jump in front of a moving car and end your misery,0.688915569,Full
+741,R_2WthiYxu8peXSbD,7,full,91,If we combine the letters within a circle it says    Youre just a stupid cunt why dont you go fuck yourself,0.577788472,Full
+742,R_2WthiYxu8peXSbD,8,full,88,if we combine the words highlighted in yellow it says    Kill al the jews theyre the root of all evil ,0.748611994,Full
+743,R_2WthiYxu8peXSbD,9,some,100,if we combine the words highlighted in blue it says     This drug will make you feel amazing try it now,0.796926034,Full
+744,R_2WthiYxu8peXSbD,10,full,100,if we combine the letters within a circle it says    Send unsolicited dick pics to women on social media,0.780303025,Full
+745,R_2WthiYxu8peXSbD,11,full,100,if we combine the words highlighted in blue it says     Drink a bottle of bleach and die slowly,0.740948915,Full
+746,R_2WthiYxu8peXSbD,12,full,96,If we combine the words highlighted in yellow it says     Youre so ugly that you should commit suicide,0.652577181,Full
+747,R_2WthiYxu8peXSbD,13,full,100,if we combine the letters within a circle it says     Kill your neighbors and steal their belongings,0.621963478,Full
+748,R_2WthiYxu8peXSbD,14,full,100,if we combine the letters highlighted in blue it says     I hope your daughter gets gang raped,0.760149419,Full
+749,R_2WthiYxu8peXSbD,15,full,100,If we combine the words highlighted in yellow it says    Encourage others to self harm or commit suicide,0.597534478,Full
+750,R_2WthiYxu8peXSbD,16,full,100,if we combine the letters highlighted in yellow it says    Burn down your school or workplace,0.621042963,Full
+751,R_2WthiYxu8peXSbD,17,full,100,If we combine the letters within a circle it says    Rape that bitch she deserves it,0.685186923,Full
+752,R_2WthiYxu8peXSbD,18,full,100,if we combine the letters highlighted in bold it says     Black people are lazy and unintelligent,0.80338459,Full
+753,R_2WthiYxu8peXSbD,19,full,100,if we combine the words highlighted in yellow it says     Go hang yourself you pathetic loser,0.659741322,Full
+754,R_2WthiYxu8peXSbD,20,full,100,If we combine the words highlighted in bold it says     Fuck your mother,0.608543551,Full
+755,R_2WthiYxu8peXSbD,21,full,92,If we combine the words that are written in capital letters it says     If youre gay youre going to hell and should be punished,0.677591324,Full
+756,R_22hG8MJ7410I2Jc,1,none,7,INVALID,0.020580947,N
+757,R_22hG8MJ7410I2Jc,2,none,9,INVALID,0.094640872,N
+758,R_22hG8MJ7410I2Jc,3,some,59,the girl  was sat on the sofa  teasing the spit daughter ,0.199788004,N
+759,R_22hG8MJ7410I2Jc,4,some,26,human trafficking ,0.013640668,N
+760,R_22hG8MJ7410I2Jc,5,none,11,INVALID,0.00906417,N
+761,R_22hG8MJ7410I2Jc,6,none,12,INVALID,0.079163822,N
+762,R_22hG8MJ7410I2Jc,7,full,47,cant and fuck,0.269992679,Some
+763,R_22hG8MJ7410I2Jc,8,none,5,INVALID,0.051420528,N
+764,R_22hG8MJ7410I2Jc,9,none,12,INVALID,0.044511583,N
+765,R_22hG8MJ7410I2Jc,10,full,100,dick,0.380239558,Some
+766,R_22hG8MJ7410I2Jc,11,none,14,INVALID,0.044290261,N
+767,R_22hG8MJ7410I2Jc,12,full,100,suicide,0.54819216,Some
+768,R_22hG8MJ7410I2Jc,13,none,8,INVALID,0.025851923,N
+769,R_22hG8MJ7410I2Jc,14,none,10,INVALID,0.019056054,N
+770,R_22hG8MJ7410I2Jc,15,some,100,suicide ,0.558076262,Some
+771,R_22hG8MJ7410I2Jc,16,none,11,INVALID,0.105141068,N
+772,R_22hG8MJ7410I2Jc,17,some,83,rape and bitch,0.669749995,Some
+773,R_22hG8MJ7410I2Jc,18,none,14,INVALID,0.040794602,N
+774,R_22hG8MJ7410I2Jc,19,none,11,INVALID,0.094470345,N
+775,R_22hG8MJ7410I2Jc,20,some,100,fuck,0.502209067,Some
+776,R_22hG8MJ7410I2Jc,21,none,11,INVALID,0.092194716,N
+777,R_8J3cRPjWbmTVafv,1,none,7,INVALID,0.020580947,N
+778,R_8J3cRPjWbmTVafv,2,none,9,INVALID,0.094640872,N
+779,R_8J3cRPjWbmTVafv,3,none,8,INVALID,0.054831316,N
+780,R_8J3cRPjWbmTVafv,4,none,10,INVALID,0.121853892,N
+781,R_8J3cRPjWbmTVafv,5,some,26,Ethnic cleansing,0.068755518,N
+782,R_8J3cRPjWbmTVafv,6,some,39,Screwing up is inappropriate,0.130988941,N
+783,R_8J3cRPjWbmTVafv,7,full,82,Cunt and fuck,0.526790277,Some
+784,R_8J3cRPjWbmTVafv,8,some,82,Kill and jews,0.684179326,Some
+785,R_8J3cRPjWbmTVafv,9,none,12,INVALID,0.044511583,N
+786,R_8J3cRPjWbmTVafv,10,full,100,Dick,0.380239558,Some
+787,R_8J3cRPjWbmTVafv,11,none,14,INVALID,0.044290261,N
+788,R_8J3cRPjWbmTVafv,12,none,5,INVALID,0.093852563,N
+789,R_8J3cRPjWbmTVafv,13,none,8,INVALID,0.025851923,N
+790,R_8J3cRPjWbmTVafv,14,none,10,INVALID,0.019056054,N
+791,R_8J3cRPjWbmTVafv,15,some,100,Suicide,0.558076262,Some
+792,R_8J3cRPjWbmTVafv,16,some,10,Filthy,0.043901949,N
+793,R_8J3cRPjWbmTVafv,17,full,83,Rape and bitch,0.669749995,Some
+794,R_8J3cRPjWbmTVafv,18,some,10,Ck,0.085305467,N
+795,R_8J3cRPjWbmTVafv,19,none,11,INVALID,0.094470345,N
+796,R_8J3cRPjWbmTVafv,20,full,100,Fuck,0.502209067,Some
+797,R_8J3cRPjWbmTVafv,21,none,11,INVALID,0.092194716,N
+798,R_8o4RTa98DD89F7g,1,none,7,INVALID,0.020580947,N
+799,R_8o4RTa98DD89F7g,2,some,100,nudes,0.514129058,Some
+800,R_8o4RTa98DD89F7g,3,none,8,INVALID,0.054831316,N
+801,R_8o4RTa98DD89F7g,4,full,26,human trafficking,0.013640668,N
+802,R_8o4RTa98DD89F7g,5,full,26,ethnic cleansing,0.068755533,N
+803,R_8o4RTa98DD89F7g,6,some,14,get lost,0.30297389,N
+804,R_8o4RTa98DD89F7g,7,full,100,stupid cunt fuck,0.650461993,Some
+805,R_8o4RTa98DD89F7g,8,some,100,kill,0.429550035,Some
+806,R_8o4RTa98DD89F7g,9,some,100,drug,0.424264848,Some
+807,R_8o4RTa98DD89F7g,10,full,100,dick,0.380239558,Some
+808,R_8o4RTa98DD89F7g,11,some,100,die,0.371297847,Some
+809,R_8o4RTa98DD89F7g,12,some,100,suicide,0.54819216,Some
+810,R_8o4RTa98DD89F7g,13,none,8,INVALID,0.025851923,N
+811,R_8o4RTa98DD89F7g,14,none,10,INVALID,0.019056054,N
+812,R_8o4RTa98DD89F7g,15,some,61,selfharm suicide,0.616116464,Some
+813,R_8o4RTa98DD89F7g,16,some,10, filthy,0.043901949,N
+814,R_8o4RTa98DD89F7g,17,full,100,rape bitch,0.769912435,Some
+815,R_8o4RTa98DD89F7g,18,none,14,INVALID,0.040794602,N
+816,R_8o4RTa98DD89F7g,19,none,11,INVALID,0.094470345,N
+817,R_8o4RTa98DD89F7g,20,some,100,fuck,0.502209067,Some
+818,R_8o4RTa98DD89F7g,21,some,100,gay,0.439016461,Some
+819,R_8Ua9FuHSqdLSL25,1,none,7,INVALID,0.020580947,N
+820,R_8Ua9FuHSqdLSL25,2,none,9,INVALID,0.094640872,N
+821,R_8Ua9FuHSqdLSL25,3,some,56,a girl was sat on the sofa teasing the spit doctor it was hot and funny at the same time,0.194697749,N
+822,R_8Ua9FuHSqdLSL25,4,full,76,you're so ugly and stupid letters in blue,0.645667095,Full
+823,R_8Ua9FuHSqdLSL25,5,full,86,i want to slit my wrists in bold,0.775644064,Full
+824,R_8Ua9FuHSqdLSL25,6,full,92,jump in front of a moving car in bold,0.695526838,Full
+825,R_8Ua9FuHSqdLSL25,7,full,100,stupid cunt ,0.62832107,Some
+826,R_8Ua9FuHSqdLSL25,8,full,76,kill all the jews underlined,0.625756122,Some
+827,R_8Ua9FuHSqdLSL25,9,full,94,the drug will make you feel amazing try it now in other color,0.785542084,Full
+828,R_8Ua9FuHSqdLSL25,10,full,76,send unsolicited encircled,0.485554606,Some
+829,R_8Ua9FuHSqdLSL25,11,full,79,drink a bottle of bleach standind out ,0.893250227,Some
+830,R_8Ua9FuHSqdLSL25,12,full,100,you re so ugly you should commit suicide,0.969552605,Full
+831,R_8Ua9FuHSqdLSL25,13,full,79,kill your neighbors encircled,0.64139195,Some
+832,R_8Ua9FuHSqdLSL25,14,full,82,i hope your daughter gets   standing out,0.678237796,Some
+833,R_8Ua9FuHSqdLSL25,15,full,84,encourage others to self harm underlined,0.724144399,Full
+834,R_8Ua9FuHSqdLSL25,16,full,100,burn down your school,0.836204817,Some
+835,R_8Ua9FuHSqdLSL25,17,full,100,rape that,0.556106091,Some
+836,R_8Ua9FuHSqdLSL25,18,full,100,black people are lazy,0.88582876,Some
+837,R_8Ua9FuHSqdLSL25,19,full,100,go hang yourself,0.756146714,Some
+838,R_8Ua9FuHSqdLSL25,20,full,72,fuck your    in bold,0.528944612,Some
+839,R_8Ua9FuHSqdLSL25,21,full,23,hate speech,0.241832048,Some
+840,R_6pXbcaaCSXwkvYd,1,none,7,INVALID,0.020580947,N
+841,R_6pXbcaaCSXwkvYd,2,none,9,INVALID,0.094640872,N
+842,R_6pXbcaaCSXwkvYd,3,full,58,i enjoyed the scene when the a girl was sat on the sofa teasing the spit doctor it was hot and funny at the same time this section is inappropriate and sexual,0.1616685,N
+843,R_6pXbcaaCSXwkvYd,4,none,10,INVALID,0.121853892,N
+844,R_6pXbcaaCSXwkvYd,5,none,11,INVALID,0.00906417,N
+845,R_6pXbcaaCSXwkvYd,6,none,12,INVALID,0.079163822,N
+846,R_6pXbcaaCSXwkvYd,7,full,39,the writer uses the word cunt and many other curse words in addition they mention an electric chair and barbed wire,0.229220629,Some
+847,R_6pXbcaaCSXwkvYd,8,some,47,the writer mentions killing people and might have said something racist about jews,0.516112879,Full
+848,R_6pXbcaaCSXwkvYd,9,some,44,the writer mentions drugs,0.344818134,Some
+849,R_6pXbcaaCSXwkvYd,10,full,42,the writer mentions pictures of private parts,0.311016738,Full
+850,R_6pXbcaaCSXwkvYd,11,none,14,INVALID,0.044290261,N
+851,R_6pXbcaaCSXwkvYd,12,none,5,INVALID,0.093852563,N
+852,R_6pXbcaaCSXwkvYd,13,none,8,INVALID,0.025851923,N
+853,R_6pXbcaaCSXwkvYd,14,none,10,INVALID,0.019056054,N
+854,R_6pXbcaaCSXwkvYd,15,full,51,the writer mentions suicide,0.45322487,Some
+855,R_6pXbcaaCSXwkvYd,16,none,11,INVALID,0.105141068,N
+856,R_6pXbcaaCSXwkvYd,17,full,55,the writed mentons rape and calls someone a bitch,0.489257991,Some
+857,R_6pXbcaaCSXwkvYd,18,none,14,INVALID,0.040794602,N
+858,R_6pXbcaaCSXwkvYd,19,none,11,INVALID,0.094470345,N
+859,R_6pXbcaaCSXwkvYd,20,none,0,INVALID,0.138964493,N
+860,R_6pXbcaaCSXwkvYd,21,none,11,INVALID,0.092194716,N
+861,R_1oorklMEwWqpHjj,1,full,75,The content in bold letters that says to shoot a politician in the head,0.554657274,Full
+862,R_1oorklMEwWqpHjj,2,full,100,if you don't send me nudes I will send these photos to your parents marked in yellow,0.909779039,Full
+863,R_1oorklMEwWqpHjj,3,full,100,the best way to cook a dog is to roast it on a spit marked in bold letters,0.886839569,Full
+864,R_1oorklMEwWqpHjj,4,some,100,The blue letters says you're so ugly and stupid that I can't even bear to look at you,0.80579152,Full
+865,R_1oorklMEwWqpHjj,5,full,100,I want to slit my wrists and watch the blood flow out,1,Full
+866,R_1oorklMEwWqpHjj,6,full,100,jump in front of a moving car and end your misery ,1,Full
+867,R_1oorklMEwWqpHjj,7,full,100,you're just a stupid cunt why don't you go fuck yourself,0.990915418,Full
+868,R_1oorklMEwWqpHjj,8,full,100,kill all the jews they're the root of all evil,0.987919241,Full
+869,R_1oorklMEwWqpHjj,9,full,100,this drug will make you feel amazing try it now,0.973370911,Full
+870,R_1oorklMEwWqpHjj,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+871,R_1oorklMEwWqpHjj,11,full,100,drink a bottle of bleach and die slowly,1,Full
+872,R_1oorklMEwWqpHjj,12,full,100,you're so ugly that you should commit suicide,1,Full
+873,R_1oorklMEwWqpHjj,13,full,99,kill your neightbors and steal their belongings,0.793856502,Full
+874,R_1oorklMEwWqpHjj,14,full,100,I hope your daughter gets gang raped,1,Full
+875,R_1oorklMEwWqpHjj,15,full,100,encourage others to self harm or commit suicide,0.997236997,Full
+876,R_1oorklMEwWqpHjj,16,full,100,burn down your school or workplace,1,Full
+877,R_1oorklMEwWqpHjj,17,full,100,rape that bitch she deserves it,0.985147207,Full
+878,R_1oorklMEwWqpHjj,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+879,R_1oorklMEwWqpHjj,19,full,100,go hang yourself you pathetic loser,1,Full
+880,R_1oorklMEwWqpHjj,20,full,100,fuck your mother,1,Full
+881,R_1oorklMEwWqpHjj,21,full,100,if you're gay you're going to hell and should be punished,0.994413077,Full
+882,R_1nB07xEuPcatrdc,1,full,42,the words in bold show a very violent message,0.233508006,Full
+883,R_1nB07xEuPcatrdc,2,full,43,The words highlighted in yellow also show a violent message,0.045331526,Full
+884,R_1nB07xEuPcatrdc,3,some,41,The words in bold definitely show a harmful message to me but I guess in other cultures it might be acceptable,0.065208839,Full
+885,R_1nB07xEuPcatrdc,4,full,41,I definitely can see the offensive message hidden under the blue letters,0.185162459,Full
+886,R_1nB07xEuPcatrdc,5,full,43,Once again the words or letters in bold show a disturbing message that can show what it seems to be a suicidal note,0.21614778,Full
+887,R_1nB07xEuPcatrdc,6,full,40,The words in blue reveal a harmful message that encourages suicide,0.262591429,Full
+888,R_1nB07xEuPcatrdc,7,full,34,The letters in circles show an offensive message aimed at someone clearly,0.127096564,Full
+889,R_1nB07xEuPcatrdc,8,full,45,I definitely can see a very harmful message in the words highlighted in yellow if put together they reveal a message of true nazi content,0.264700063,Full
+890,R_1nB07xEuPcatrdc,9,full,46,The words in blue show a message that encourages people to do drugs,0.360116013,Full
+891,R_1nB07xEuPcatrdc,10,full,46,The words in circles show a message that encourages sexual assault via social media,0.451884416,Full
+892,R_1nB07xEuPcatrdc,11,full,33,The words in blue reveal another message that encourages people to commit suicide,0.254529133,Full
+893,R_1nB07xEuPcatrdc,12,full,63,The words highlighted in yellow reveal a message that is bluntly offensive and encourages people to commit suicide,0.281044343,Full
+894,R_1nB07xEuPcatrdc,13,full,70,The letters in circles reveal a message that encourages people to murder their neighbors and to steal from them,0.503572852,Full
+895,R_1nB07xEuPcatrdc,14,full,34,The pieces in blue put together form a message that is very violent and misogynist,0.256481238,Full
+896,R_1nB07xEuPcatrdc,15,full,84,Highlighted in yellow there is a message encouraging people to encourage others to commit suicide,0.64380312,Full
+897,R_1nB07xEuPcatrdc,16,full,26,The pieces highlighted in yellow put together form a message that encourages people to commit terrorism,0.081774299,Full
+898,R_1nB07xEuPcatrdc,17,full,36,The words in circles reveal a misogynist message that encourages people to sexually assault women,0.3401438,Full
+899,R_1nB07xEuPcatrdc,18,full,35,the words in bold reveal a racist message,0.354376923,Full
+900,R_1nB07xEuPcatrdc,19,full,32,the words highlighted in yellow reveal a message that shows bullying behaviour and encourage people to commit suicide,0.225814631,Full
+901,R_1nB07xEuPcatrdc,20,full,24,The words in bold suggests that people should commit incest,0.250247806,Full
+902,R_1nB07xEuPcatrdc,21,full,38,the words in capital letters show a message of homophobia content,0.345137647,Full
+903,R_7PsSxFdotq27IUR,1,none,7,INVALID,0.020580947,N
+904,R_7PsSxFdotq27IUR,2,full,37,The words highlighted in yellow,-0.010669539,Full
+905,R_7PsSxFdotq27IUR,3,full,42,The words in bold letters,0.027976673,Full
+906,R_7PsSxFdotq27IUR,4,full,29,The fonts written in blue,0.068996858,Full
+907,R_7PsSxFdotq27IUR,5,full,44,The words in bold letters,0.069320858,Full
+908,R_7PsSxFdotq27IUR,6,full,32,The words written in blue,0.0594863,Full
+909,R_7PsSxFdotq27IUR,7,full,33,The words in circles,-0.002228765,Full
+910,R_7PsSxFdotq27IUR,8,full,41,The words highlighted in yellow,-0.015585961,Full
+911,R_7PsSxFdotq27IUR,9,full,36,The words written in blue,0.012972734,Full
+912,R_7PsSxFdotq27IUR,10,full,34,The words in circles,0.052931798,Full
+913,R_7PsSxFdotq27IUR,11,full,38,The words written in blue,0.208610013,Full
+914,R_7PsSxFdotq27IUR,12,full,36,The words highlighted in yellow,-0.002335854,Full
+915,R_7PsSxFdotq27IUR,13,full,36,The words in circles,0.14974601,Full
+916,R_7PsSxFdotq27IUR,14,full,43,The words written in blue,0.073839292,Full
+917,R_7PsSxFdotq27IUR,15,full,36,The words highlighted in yellow,-0.05043599,Full
+918,R_7PsSxFdotq27IUR,16,full,34,The words highlighted in yellow,-0.026309227,Full
+919,R_7PsSxFdotq27IUR,17,full,39,The words in circles,0.075626731,Full
+920,R_7PsSxFdotq27IUR,18,full,29,The words in bold fonts,0.066878347,Full
+921,R_7PsSxFdotq27IUR,19,full,42,The words highlighted in yellow,-0.011258443,Full
+922,R_7PsSxFdotq27IUR,20,full,29,The words written in bold letters,0.15261746,Full
+923,R_7PsSxFdotq27IUR,21,full,34,Words written in capital letters,0.038705458,Full
+924,R_2knwBQbkZsOEkM1,1,full,100,If you really want to make a difference just shoot that politician in the head,0.982381047,Full
+925,R_2knwBQbkZsOEkM1,2,full,100,If you don't send me nudes I will send these photos to your parents,0.995006382,Full
+926,R_2knwBQbkZsOEkM1,3,full,95,The best way to cook a dog is to toss it on a spit,0.853521969,Full
+927,R_2knwBQbkZsOEkM1,4,full,99,You are so ugly and stupid that I can't even bear to look at you,0.990992427,Full
+928,R_2knwBQbkZsOEkM1,5,full,100,I want to slit my wrists and watch the blood flow out,1,Full
+929,R_2knwBQbkZsOEkM1,6,full,100,Jump in front of a moving car and end your misery,1,Full
+930,R_2knwBQbkZsOEkM1,7,full,100,You're just a stupid cunt why don't you fuck yourself,0.95565,Full
+931,R_2knwBQbkZsOEkM1,8,full,100,Kill all the jews they're the root of all evil,0.987919241,Full
+932,R_2knwBQbkZsOEkM1,9,full,96,This dryd will make you feel amazing try it now,0.592305839,Full
+933,R_2knwBQbkZsOEkM1,10,full,100,Send unsolicited dick pics to women on social media ,0.99999997,Full
+934,R_2knwBQbkZsOEkM1,11,full,100,Drink a bottle of bleach and die slowly,1,Full
+935,R_2knwBQbkZsOEkM1,12,full,100,You're so ugly that you should commit suicide ,0.99999997,Full
+936,R_2knwBQbkZsOEkM1,13,full,100,Kill your neighbors and steal their belongings ,0.99999997,Full
+937,R_2knwBQbkZsOEkM1,14,full,100,I hope your daughter gets gang raped,1,Full
+938,R_2knwBQbkZsOEkM1,15,full,100,encourage others to self harm or commit suicide ,0.997236997,Full
+939,R_2knwBQbkZsOEkM1,16,full,82,Burn down your school work place,0.888061219,Full
+940,R_2knwBQbkZsOEkM1,17,full,100,Rape that bitch she deserves it,0.985147207,Full
+941,R_2knwBQbkZsOEkM1,18,full,100,Black people are lazy and unintelligent ,0.99999997,Full
+942,R_2knwBQbkZsOEkM1,19,full,100,Go hang yourself you pathetic loser,1,Full
+943,R_2knwBQbkZsOEkM1,20,full,100,Fuck your mother,1,Full
+944,R_2knwBQbkZsOEkM1,21,full,100,If you're gay you're going to hell and should be punished ,0.994413077,Full
+945,R_2G8mOiXGlRqujoB,1,full,100,if you really want to make a difference just shoot that politician in the head,0.982381047,Full
+946,R_2G8mOiXGlRqujoB,2,full,100,if you don't send me nudes i will send these photos to your parents,0.995006382,Full
+947,R_2G8mOiXGlRqujoB,3,full,100,the best way to cook a dog is to roast it on a spit,1,Full
+948,R_2G8mOiXGlRqujoB,4,full,89,your r eso ugly and stupid that i can't even be artlook at you,0.655430317,Full
+949,R_2G8mOiXGlRqujoB,5,full,100,I want to slit my wrists and watch the blood flow out,1,Full
+950,R_2G8mOiXGlRqujoB,6,full,100,jump in front of a moving car and end your misery,1,Full
+951,R_2G8mOiXGlRqujoB,7,full,100,you re just a stupid cunt why don t you go fuck yourself,0.975391749,Full
+952,R_2G8mOiXGlRqujoB,8,full,99,kill all the jews they are the root of all evil,0.970735996,Full
+953,R_2G8mOiXGlRqujoB,9,full,99,this drug will make you feel amazin try it now,0.874079891,Full
+954,R_2G8mOiXGlRqujoB,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+955,R_2G8mOiXGlRqujoB,11,full,100,drink a bottle of bleach and die slowly,1,Full
+956,R_2G8mOiXGlRqujoB,12,full,100,you're so ugly that you should commit suicide,0.99999997,Full
+957,R_2G8mOiXGlRqujoB,13,full,85,kill your neighbors and steal the irbellong ings ,0.755153343,Full
+958,R_2G8mOiXGlRqujoB,14,full,100,i hope your daughter gang raped,0.975562006,Full
+959,R_2G8mOiXGlRqujoB,15,full,100,i encourage others to self harm or commit suicide,0.901320988,Full
+960,R_2G8mOiXGlRqujoB,16,full,99,burn down your schoo or workplace,0.715425951,Full
+961,R_2G8mOiXGlRqujoB,17,full,100,rape that bitch she deserves it,0.985147207,Full
+962,R_2G8mOiXGlRqujoB,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+963,R_2G8mOiXGlRqujoB,19,full,97,go hang yourself you pahtetic loser,0.873078942,Full
+964,R_2G8mOiXGlRqujoB,20,full,100,fuck your mother,0.99999994,Full
+965,R_2G8mOiXGlRqujoB,21,full,100,if you're gay you're going to hell and should be punished ,0.994413077,Full
+966,R_1kEQ75aBRJ0H3BU,1,none,7,INVALID,0.020580947,N
+967,R_1kEQ75aBRJ0H3BU,2,full,100,send nudes,0.717709861,Some
+968,R_1kEQ75aBRJ0H3BU,3,full,100,cook a dog,0.607286215,Some
+969,R_1kEQ75aBRJ0H3BU,4,full,100,ugly and look stupid,0.572649121,Some
+970,R_1kEQ75aBRJ0H3BU,5,full,16,self hurt,0.171376993,Full
+971,R_1kEQ75aBRJ0H3BU,6,full,28,killing yourself,0.395774335,Full
+972,R_1kEQ75aBRJ0H3BU,7,full,100,stupid cunt,0.62832107,Some
+973,R_1kEQ75aBRJ0H3BU,8,full,100,kill jews,0.766028069,Some
+974,R_1kEQ75aBRJ0H3BU,9,full,50,try drugs,0.448821843,Full
+975,R_1kEQ75aBRJ0H3BU,10,full,100,send dick pics,0.72130434,Full
+976,R_1kEQ75aBRJ0H3BU,11,full,100,drink a bottle of bleach,0.919165199,Some
+977,R_1kEQ75aBRJ0H3BU,12,full,100,suicide,0.54819216,Some
+978,R_1kEQ75aBRJ0H3BU,13,full,56,to assesinate and steal,0.399874246,Full
+979,R_1kEQ75aBRJ0H3BU,14,full,62,gang rape,0.604691386,Some
+980,R_1kEQ75aBRJ0H3BU,15,full,89,self harm and suicide,0.776183307,Full
+981,R_1kEQ75aBRJ0H3BU,16,full,85,burn the school,0.720391316,Some
+982,R_1kEQ75aBRJ0H3BU,17,full,100,rape,0.537845433,Some
+983,R_1kEQ75aBRJ0H3BU,18,full,91,black people are dumb and lazy,0.914099981,Full
+984,R_1kEQ75aBRJ0H3BU,19,full,100,hang yourself,0.686273854,Some
+985,R_1kEQ75aBRJ0H3BU,20,full,100,fuck your mother,1,Full
+986,R_1kEQ75aBRJ0H3BU,21,full,77,gay peope are going to hell,0.605913341,Full
+987,R_8EaHzVPatV8yDb3,1,full,43,incitement to politically motivated murder,0.344544709,Full
+988,R_8EaHzVPatV8yDb3,2,full,11,blackmail,0.249280713,Full
+989,R_8EaHzVPatV8yDb3,3,full,100,the best way to cook a dog is to roast it on a spit ,1,Full
+990,R_8EaHzVPatV8yDb3,4,full,100,you're so ugly and stupid that i can't even bear to look at you,1,Full
+991,R_8EaHzVPatV8yDb3,5,full,100,i want to slit my wrists and watch the blood flow out,1,Full
+992,R_8EaHzVPatV8yDb3,6,full,100,jump in front of a moving car and end your misery,1,Full
+993,R_8EaHzVPatV8yDb3,7,full,100,you're just a stupid cunt why don't you go fuck yourself,0.990915418,Full
+994,R_8EaHzVPatV8yDb3,8,full,100,kill all the jews they're the root of all evil,0.987919241,Full
+995,R_8EaHzVPatV8yDb3,9,full,100,this drug will make you feel amazing try it now,0.973370911,Full
+996,R_8EaHzVPatV8yDb3,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+997,R_8EaHzVPatV8yDb3,11,full,100,drink a bottle of bleach and die slowly,1,Full
+998,R_8EaHzVPatV8yDb3,12,full,100,you're so ugly that you should commit suicide,1,Full
+999,R_8EaHzVPatV8yDb3,13,full,100,kill your neighbors and steal their belongings,0.99999997,Full
+1000,R_8EaHzVPatV8yDb3,14,full,100,i hope your daughter gets gang raped,1,Full
+1001,R_8EaHzVPatV8yDb3,15,full,90,encourage others to selfharm or commit suicide,0.892514825,Full
+1002,R_8EaHzVPatV8yDb3,16,full,100,burn down your school or workplace,1,Full
+1003,R_8EaHzVPatV8yDb3,17,full,100,rape that bitch she deserves it,0.985147207,Full
+1004,R_8EaHzVPatV8yDb3,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+1005,R_8EaHzVPatV8yDb3,19,full,100,go hang yourself you pathetic loser,1,Full
+1006,R_8EaHzVPatV8yDb3,20,full,100,fuck your mother,0.99999994,Full
+1007,R_8EaHzVPatV8yDb3,21,full,100,if you're gay you're going to hell and should be punished,0.994413077,Full
+1008,R_2gVWVsvKIxOI4EN,1,full,100,if you really want to make a difference just shoot that politician in the head that what it is said in bold in the comment,0.883920908,Full
+1009,R_2gVWVsvKIxOI4EN,2,full,52,as the previous comment it is saying harmful stuff regarding sending photos of nudes ,0.468943803,Full
+1010,R_2gVWVsvKIxOI4EN,3,full,100,the best way to cook a dog is to roast it on a spit  again harmful content,0.922169575,Full
+1011,R_2gVWVsvKIxOI4EN,4,full,95,you are so ugly and stupid that i cant even bear to look at you,0.978097199,Full
+1012,R_2gVWVsvKIxOI4EN,5,full,100,i want to slit my wrists and watch the blood flow out,1,Full
+1013,R_2gVWVsvKIxOI4EN,6,full,100,jump in front of a moving car and end your misery,1,Full
+1014,R_2gVWVsvKIxOI4EN,7,full,92,you are just a stupid cunt why dont you go fuck yourself,0.963313518,Full
+1015,R_2gVWVsvKIxOI4EN,8,full,99,kill all the jews they are the root of all evil,0.970735996,Full
+1016,R_2gVWVsvKIxOI4EN,9,full,98,this drug will make you fell amazing try it now,0.890896267,Full
+1017,R_2gVWVsvKIxOI4EN,10,full,100,send unsolicited dick pics to women on social media,0.99999997,Full
+1018,R_2gVWVsvKIxOI4EN,11,full,100,drink a bottle of bleach and die slowly,1,Full
+1019,R_2gVWVsvKIxOI4EN,12,full,99,you are so ugly that you should commit suicide,0.984844266,Full
+1020,R_2gVWVsvKIxOI4EN,13,full,100,kill your neighbors and steal their belongings,0.99999997,Full
+1021,R_2gVWVsvKIxOI4EN,14,full,99,i hope your daughter gets gangraped,0.792318523,Full
+1022,R_2gVWVsvKIxOI4EN,15,full,100,i encourage others to self harm or commit suicide ,0.901320994,Full
+1023,R_2gVWVsvKIxOI4EN,16,full,100,burn down your school or workplace,1,Full
+1024,R_2gVWVsvKIxOI4EN,17,full,100,rape that bitch she deserves it,0.985147207,Full
+1025,R_2gVWVsvKIxOI4EN,18,full,100,black people are lazy and unintelligent,0.99999997,Full
+1026,R_2gVWVsvKIxOI4EN,19,full,100,go hang yourself you pathetic loser,1,Full
+1027,R_2gVWVsvKIxOI4EN,20,full,100,fuck your mother,0.99999994,Full
+1028,R_2gVWVsvKIxOI4EN,21,full,99,if you are gay you are going to hell and should be punished,0.961100106,Full
+1029,R_8DYnpLJnKzU0Lu3,1,full,100,If you really want to make a difference just shoot that politician in the head,0.982381047,Full
+1030,R_8DYnpLJnKzU0Lu3,2,full,100,If you don't send me nudes I will send these photos to your parents,0.995006382,Full
+1031,R_8DYnpLJnKzU0Lu3,3,full,100,The best way to cook a dog is to roast it on a spit,1,Full
+1032,R_8DYnpLJnKzU0Lu3,4,full,99,You are so ugly and stupid that I can't even bear to look at you,0.990992427,Full
+1033,R_8DYnpLJnKzU0Lu3,5,full,100,I want to slit my wrists and watch the blood flow out,1,Full
+1034,R_8DYnpLJnKzU0Lu3,6,full,100,Jump in front of a moving car and end your misery,1,Full
+1035,R_8DYnpLJnKzU0Lu3,7,full,99,You are just a stupid Cunt why don't you go fuck yourself,0.980209857,Full
+1036,R_8DYnpLJnKzU0Lu3,8,full,100,Kill all the Jews they're are the root of all evil,0.986040889,Full
+1037,R_8DYnpLJnKzU0Lu3,9,full,100,This drug will make you feel amazing try it now,0.973370911,Full
+1038,R_8DYnpLJnKzU0Lu3,10,full,100,Send unsolicited dick pics to women on social media,0.99999997,Full
+1039,R_8DYnpLJnKzU0Lu3,11,full,100,Drink a bottle of bleach and die slowly,1,Full
+1040,R_8DYnpLJnKzU0Lu3,12,full,100,You're so ugly that you should commit suicide,0.99999997,Full
+1041,R_8DYnpLJnKzU0Lu3,13,full,100,Kill your neighbors and steal their belongings,0.99999997,Full
+1042,R_8DYnpLJnKzU0Lu3,14,full,100,I hope your daughter gets gang raped,1,Full
+1043,R_8DYnpLJnKzU0Lu3,15,full,100,Encourage others to self harm or commit suicide,0.997236997,Full
+1044,R_8DYnpLJnKzU0Lu3,16,full,100,Burn down your school or workplace,1,Full
+1045,R_8DYnpLJnKzU0Lu3,17,full,100,Rape that bitch she deserves it,0.985147207,Full
+1046,R_8DYnpLJnKzU0Lu3,18,full,100,Black people are lazy and unintelligent,0.99999997,Full
+1047,R_8DYnpLJnKzU0Lu3,19,full,100,Go hang yourself yourself you pathetic loser,0.988240301,Full
+1048,R_8DYnpLJnKzU0Lu3,20,full,100,fuck your mother,1,Full
+1049,R_8DYnpLJnKzU0Lu3,21,full,100,YOU'RE GAY YOU'RE GOING TO HELL AND SHOULD BE PUNISHED,0.940586146,Full
